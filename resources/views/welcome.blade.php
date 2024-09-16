@@ -12,10 +12,10 @@
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="theme-color" content="#fffff"/>
         <meta property="fb:app_id" content="456409989064574"/>
-        <meta property="og:title" content="UW-003"/>
+        <meta property="og:title" content="Invitation of Our Happy Wedding"/>
         <meta property="og:type" content="article"/>
-        <meta property="og:url" content="https://foreverr.id/demo/uw003/"/>
-        <meta property="og:description" content="Dark Simples"/>
+        <meta property="og:url" content="https://rositadr.com"/>
+        <meta property="og:description" content="Rosita & Yussuf"/>
         <meta property="og:image" content="https://s.foreverr.id/themes/uw003/foreverr.id_cover.png"/>
         <meta property="og:image:width" content="640">
         <meta property="og:image:height" content="300">
