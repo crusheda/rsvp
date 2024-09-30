@@ -2,7 +2,7 @@
 <html lang="en-US" translate="no">
     <head>
         <meta charset="UTF-8">
-        <link media="all" href="https://foreverr.id/wp-content/assets/css/foreverr_7a7952a9aa37f3a7d945218f4dd101a9.css" rel="stylesheet">
+        <link media="all" href="{{ asset('css\main.css') }}" rel="stylesheet">
         <title>Yussuf & Rosita</title>
         <meta name='robots' content='noindex, nofollow'/>
         <link rel='dns-prefetch' href='//ajax.googleapis.com'/>
