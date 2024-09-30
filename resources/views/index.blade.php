@@ -32,7 +32,7 @@
     <meta property="og:type" content="article"/>
     <meta property="og:url" content="https://rositadr.com"/>
     <meta property="og:description" content="Invitation of Our Happy Wedding"/>
-    <meta property="og:image" content="http://simrsmu.com/images/hdj/cover.jpg">
+    <meta property="og:image" content="https://rositadr.com/images/hdj/cover.jpg">
     <meta property="og:image:width" content="640">
     <meta property="og:image:height" content="300">
     <link rel="canonical" href="https://foreverr.id/demo/uw003/"/>
