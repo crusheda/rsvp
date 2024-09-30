@@ -28,20 +28,19 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="#fffff"/>
     <meta property="fb:app_id" content="456409989064574"/>
-    <meta property="og:title" content="Invitation of Our Happy Wedding"/>
+    <meta property="og:title" content="The Wedding of Yussuf & Rosita"/>
     <meta property="og:type" content="article"/>
     <meta property="og:url" content="https://rositadr.com"/>
-    <meta property="og:description" content="Rosita & Yussuf"/>
-    <meta property="og:image" content="https://satumomen.com/themes/colored-beach/colored-beach.webp">
-    {{-- <meta property="og:image:width" content="640">
-    <meta property="og:image:height" content="300"> --}}
+    <meta property="og:description" content="Invitation of Our Happy Wedding"/>
+    <meta property="og:image" content="/images/hdj/cover.jpg">
+    <meta property="og:image:width" content="640">
+    <meta property="og:image:height" content="300">
     <link rel="canonical" href="https://foreverr.id/demo/uw003/"/>
     <link rel="icon" href="https://foreverr.id/wp-content/uploads/2023/01/foreverr_img-32x32.png" sizes="32x32"/>
     <link rel="icon" href="https://foreverr.id/wp-content/uploads/2023/01/foreverr_img-192x192.png" sizes="192x192"/>
     <link rel="apple-touch-icon" href="https://foreverr.id/wp-content/uploads/2023/01/foreverr_img-180x180.png"/>
     <meta name="msapplication-TileImage" content="https://foreverr.id/wp-content/uploads/2023/01/foreverr_img-270x270.png"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
-
 
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
