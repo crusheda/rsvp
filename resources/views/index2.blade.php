@@ -1596,11 +1596,11 @@
                             <img src="/assets/Orn-17.png" alt>
                         </div>
                         <div class="quotes-content">
-                            <p class="quote-caption" data-aos="fade-up" data-aos-duration="1000">
+                            <p class="quote-caption" data-aos="fade-up" data-aos-duration="2200">
                                 "Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan
                                 untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia
                                 menjadikan di antaramu rasa kasih dan sayang" </p>
-                            <p class="quote-caption-bottom" data-aos="fade-up" data-aos-duration="1000">QS. Ar-Rum : 21
+                            <p class="quote-caption-bottom" data-aos="fade-up" data-aos-duration="2200">QS. Ar-Rum : 21
                             </p>
                         </div>
                         <div class="ornaments-wrapper">
@@ -1948,7 +1948,7 @@
                                                 data-aos-delay="450" data-aos-anchor-placement="top-bottom">Akad Nikah
                                             </h3>
                                             <p class="activity-time" data-aos="zoom-in" data-aos-duration="1000"
-                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Pukul 10:00 WIB - Selesai</p>
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Pukul <u>10:00 WIB</u> - Selesai</p>
                                         </div>
                                         <div class="event-details">
                                             <p class="event-hall" data-aos="fade-up" data-aos-duration="1000"
@@ -2054,7 +2054,7 @@
                                             <h3 class="activity-title" data-aos="zoom-in" data-aos-duration="1000"
                                                 data-aos-delay="450" data-aos-anchor-placement="top-bottom">Acara Resepsi</h3>
                                             <p class="activity-time" data-aos="zoom-in" data-aos-duration="1000"
-                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Pukul 13:00 WIB - Selesai</p>
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Pukul <u>13:00 WIB</u> - Selesai</p>
                                         </div>
                                         <div class="event-details">
                                             <p class="event-hall" data-aos="fade-up" data-aos-duration="1000"
@@ -2337,7 +2337,7 @@
                 </div>
             </section>
 
-            <section class=" wedding-gift-wrap">
+            <section class=" wedding-gift-wrap" style="margin-top:30px">
                 <div class="wedding-gift-inner">
                     <div class="gift-frame">
                         <div class="frame-wrap">
@@ -2674,7 +2674,8 @@
     <script>
         // Music
         var MUSIC = {
-            'url': "https:\/\/katsudoto-storage.s3.ap-southeast-1.amazonaws.com\/media\/audio\/y2mate-mp3cutnet-48-45a241d61c4ec7a8.mp3",
+            // 'url': "https:\/\/katsudoto-storage.s3.ap-southeast-1.amazonaws.com\/media\/audio\/y2mate-mp3cutnet-48-45a241d61c4ec7a8.mp3",
+            'url': "\/musics\/lagu_pernikahan_kita.mp3",
             'box': '#music-box'
         };
 
