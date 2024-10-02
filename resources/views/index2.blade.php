@@ -16,14 +16,14 @@
     <meta property="og:url" content="https://rositadr.com" />
     <meta property="og:title" content="The Wedding of Yussuf &amp; Rosita" />
     <meta property="og:description" content="Invitation of Our Happy Wedding on Sunday, Dec 1st 2024" />
-    <meta property="og:image" content="/images/hdj/cover2.jpg" />
+    <meta property="og:image" content="{{ asset('/images/hdj/cover2.jpg') }}}" />
     <meta property="og:locale" content="in_ID">
 
-    <meta property="twitter:card" content="/images/hdj/cover2.jpg">
+    <meta property="twitter:card" content="{{ asset('/images/hdj/cover2.jpg') }}">
     <meta property="twitter:url" content="https://rositadr.com">
     <meta property="twitter:title" content="The Wedding of Yussuf &amp; Rosita">
     <meta property="twitter:description" content="Invitation of Our Happy Wedding on Sunday, Dec 1st 2024">
-    <meta property="twitter:image" content="/images/hdj/cover2.jpg">
+    <meta property="twitter:image" content="{{ asset('/images/hdj/cover2.jpg') }}">
 
     <script>
         (function(w, d, s, l, i) {
@@ -1297,7 +1297,6 @@
 </head>
 
 <body class="  rafif-sani original" data-template>
-
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7SMP7M" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
 
@@ -1332,12 +1331,12 @@
                         <div class="logo-1">
                             <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
                                 data-aos-delay="1600">
-                                <img src="/assets/logo-1.png" alt>
+                                <img src="/assets/logo1.png" alt>
                             </div>
                             <div class="logo-2">
                                 <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
                                     data-aos-delay="1600">
-                                    <img src="/assets/logo-2.png" alt>
+                                    <img src="/assets/logo2.png" alt>
                                 </div>
                             </div>
                         </div>
@@ -1432,12 +1431,12 @@
                         <div class="logo-1">
                             <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
                                 data-aos-delay="1600">
-                                <img src="/assets/logo-1.png" alt>
+                                <img src="/assets/logo1.png" alt>
                             </div>
                             <div class="logo-2">
                                 <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
                                     data-aos-delay="1600">
-                                    <img src="/assets/logo-2.png" alt>
+                                    <img src="/assets/logo2.png" alt>
                                 </div>
                             </div>
                         </div>
@@ -1515,8 +1514,8 @@
             <section class="cover">
                 <div class="inner">
                     <div class="head">
-                        <h1 class="prime-title" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200" style="font-size: 30px">The Wedding of</h1>
-                        <h2 class="prime-title" data-aos="zoom-in" data-aos-duration="1400" data-aos-delay="600" style="font-size: 25px">Yussuf &amp; Rosita</h2>
+                        <h1 class="prime-title" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200" style="font-size: 40px">The Wedding of</h1>
+                        <h2 class="prime-title" data-aos="zoom-in" data-aos-duration="1400" data-aos-delay="600" style="font-size: 30px">Yussuf &amp; Rosita</h2>
                     </div>
                     <div class="body highlight" data-aos="zoom-in-up" data-aos-duration="1200" data-aos-delay="500">
                         <div class="cover-frame" id="coverFrame">
@@ -1718,7 +1717,7 @@
                             <div class="couple-details-wrap">
                                 <div class="couple-details">
 
-                                    <p class="couple-parents" data-aos="fade-up" data-aos-duration="1000">Putra dari<br><b>Bp. Supartono, SKM</b> &amp;<br><b>Alm. Ibu Hj. Rini Indriyastuti, S.Kep</b></p>
+                                    <p class="couple-parents" data-aos="fade-up" data-aos-duration="1000">Putra dari<br><b>Bp. H. Supartono, SKM</b> &amp;<br><b>Alm. Ibu Hj. Rini Indriyastuti, S.Kep</b></p>
                                     <div class="couple-link-wrap" data-aos="fade-up" data-aos-duration="1000">
                                         <a href="https://www.instagram.com/hiyussuf" target="_blank"
                                             class="couple-link"><i class="fab fa-instagram"></i> @hiyussuf</a>
@@ -1737,7 +1736,7 @@
                                 <h1 class="couple-name-top">Rosita
                                 </h1>
                                 <p class="couple-name-bottom">
-                                    Rosita Dewi Rahmawati, RMIK</p>
+                                    Rosita Dewi Rahmawati, A.Md.RMIK</p>
                             </div>
                             <div class="couple-preview">
                                 <div class="ornaments-wrapper">
@@ -1806,7 +1805,7 @@
                             <div class="couple-details-wrap">
                                 <div class="couple-details">
 
-                                    <p class="couple-parents" data-aos="fade-up" data-aos-duration="1000">Putri dari<br><b>Bp. Giyanto</b> &amp;<br><b>Ibu ...</b></p>
+                                    <p class="couple-parents" data-aos="fade-up" data-aos-duration="1000">Putri dari<br><b>Bp. Giyanto</b> &amp;<br><b>Ibu Warsi</b></p>
                                     <div class="couple-link-wrap" data-aos="fade-up" data-aos-duration="1000">
                                         <a href="https://www.instagram.com/rositadewi_r" target="_blank"
                                             class="couple-link"><i class="fab fa-instagram"></i> @rositadewi_r</a>
@@ -1949,15 +1948,15 @@
                                                 data-aos-delay="450" data-aos-anchor-placement="top-bottom">Akad Nikah
                                             </h3>
                                             <p class="activity-time" data-aos="zoom-in" data-aos-duration="1000"
-                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Pukul 10:00 - Selesai</p>
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Pukul 10:00 WIB - Selesai</p>
                                         </div>
                                         <div class="event-details">
                                             <p class="event-hall" data-aos="fade-up" data-aos-duration="1000"
-                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Rumah</p>
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Alamat Rumah :</p>
                                             <p class="event-address" data-aos="fade-up" data-aos-duration="1000"
-                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Dk. Bakalan RT 02 RW 01 Ds. Bakalan, Kec. Polokarto</p>
-                                            <p class="event-city" data-aos="fade-up" data-aos-duration="1000"
-                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Kota Sukoharjo</p>
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Dk. Bakalan RT 02 RW 01 Ds. Bakalan, Kec. Polokarto, Kab. Sukoharjo</p>
+                                            {{-- <p class="event-city" data-aos="fade-up" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Kota Sukoharjo</p> --}}
                                             <div class="event-link-wrap" data-aos="fade-up" data-aos-duration="1000"
                                                 data-aos-delay="450" data-aos-anchor-placement="top-bottom"><a
                                                     href="https://maps.app.goo.gl/ycJDAqnYRDQpah838"
@@ -2055,15 +2054,15 @@
                                             <h3 class="activity-title" data-aos="zoom-in" data-aos-duration="1000"
                                                 data-aos-delay="450" data-aos-anchor-placement="top-bottom">Acara Resepsi</h3>
                                             <p class="activity-time" data-aos="zoom-in" data-aos-duration="1000"
-                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Pukul 13:00 - Selesai</p>
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Pukul 13:00 WIB - Selesai</p>
                                         </div>
                                         <div class="event-details">
                                             <p class="event-hall" data-aos="fade-up" data-aos-duration="1000"
-                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Rumah</p>
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Alamat Rumah :</p>
                                             <p class="event-address" data-aos="fade-up" data-aos-duration="1000"
-                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Dk. Bakalan RT 02 RW 01 Ds. Bakalan, Kec. Polokarto</p>
-                                            <p class="event-city" data-aos="fade-up" data-aos-duration="1000"
-                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Kota Sukoharjo</p>
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Dk. Bakalan RT 02 RW 01 Ds. Bakalan, Kec. Polokarto, Kab. Sukoharjo</p>
+                                            {{-- <p class="event-city" data-aos="fade-up" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Kota Sukoharjo</p> --}}
                                             <div class="event-link-wrap" data-aos="fade-up" data-aos-duration="1000"
                                                 data-aos-delay="450" data-aos-anchor-placement="top-bottom"><a
                                                     href="https://maps.app.goo.gl/ycJDAqnYRDQpah838"
@@ -2217,94 +2216,94 @@
                     </div>
                     <div class="photo-body">
                         <div class="photo-box lightgallery">
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover.jpg"
-                                target="_blank">
-                                <img src="/images/hdj/cover.jpg"
+                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
+                                href="/images/hdj/kolase/1.jpg"
+                                target="_blank" style="height:400px">
+                                <img src="/images/hdj/kolase/1.jpg"
                                     alt="HLG00538-resize.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover.jpg"
+                                href="/images/hdj/kolase/2.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover.jpg"
+                                <img src="/images/hdj/kolase/2.jpg"
                                     alt="HLG00802-r.jpg">
                             </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover.jpg"
+                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
+                                href="/images/hdj/kolase/3.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover.jpg"
+                                <img src="/images/hdj/kolase/3.jpg"
                                     alt="HLG00838-r.jpg">
                             </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover.jpg"
+                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
+                                href="/images/hdj/kolase/4.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover.jpg"
+                                <img src="/images/hdj/kolase/4.jpg"
                                     alt="HLG01078-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover.jpg"
+                                href="/images/hdj/kolase/5.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover.jpg"
+                                <img src="/images/hdj/kolase/5.jpg"
                                     alt="HLG00967-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover.jpg"
+                                href="/images/hdj/kolase/6.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover.jpg"
+                                <img src="/images/hdj/kolase/6.jpg"
                                     alt="HLG00741-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover.jpg"
+                                href="/images/hdj/kolase/7.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover.jpg"
+                                <img src="/images/hdj/kolase/7.jpg"
                                     alt="HLG01541-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover.jpg"
+                                href="/images/hdj/kolase/9.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover.jpg"
+                                <img src="/images/hdj/kolase/9.jpg"
                                     alt="HLG01523-r.jpg">
                             </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover2.jpg"
+                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
+                                href="/images/hdj/kolase/8.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover2.jpg"
+                                <img src="/images/hdj/kolase/8.jpg"
                                     alt="HLG01427-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover2.jpg"
+                                href="/images/hdj/kolase/10.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover2.jpg"
+                                <img src="/images/hdj/kolase/10.jpg"
                                     alt="HLG01902-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover2.jpg"
+                                href="/images/hdj/kolase/11.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover2.jpg"
+                                <img src="/images/hdj/kolase/11.jpg"
                                     alt="HLG01707-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover2.jpg"
+                                href="/images/hdj/kolase/12.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover2.jpg"
+                                <img src="/images/hdj/kolase/12.jpg"
                                     alt="HLG01924-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover2.jpg"
+                                href="/images/hdj/kolase/13.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover2.jpg"
+                                <img src="/images/hdj/kolase/13.jpg"
                                     alt="HLG01897-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover2.jpg"
+                                href="/images/hdj/kolase/14.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover2.jpg"
+                                <img src="/images/hdj/kolase/14.jpg"
                                     alt="HLG01978-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/cover2.jpg"
+                                href="/images/hdj/kolase/15.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/cover2.jpg"
+                                <img src="/images/hdj/kolase/15.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                         </div>
@@ -2408,7 +2407,7 @@
                                 </div>
                             </div>
                             <div class="wedding-gift-head">
-                                <h1 class="wedding-gift-title" data-aos="fade-up" data-aos-duration="1200">
+                                <h1 class="wedding-gift-title" data-aos="fade-up" data-aos-duration="1200" style="font-size: 30px">
                                     Amplop Digital </h1>
                                 <p class="wedding-gift-description" data-aos="fade-up" data-aos-duration="1200">
                                     Doa restu dan kehadiran kalian di acara pernikahan kami sudah cukup bagi kami. Namun, jika kalian ingin memberikan hadiah, kami menyediakan Amplop Digital agar lebih mudah bagi kalian. Terima kasih. </p>
@@ -2423,13 +2422,23 @@
                                                     <h4 class="bank-name">BANK BRI</h4>
                                                 </div>
                                                 <div data-aos="fade-up" data-aos-duration="1200">
-                                                    <h4 class="bank-account-number" data-copy="4210167256">No.Rekening : <br><span> 0511 0106 6766 508</span></h4>
+                                                    <h4 class="bank-account-number" data-copy="051101066766508">No.Rekening : <br><span>0511 0106 6766 508</span> <div class="copy-btn" data-copy="051101066766508">Salin</div></h4>
                                                 </div>
                                                 <div data-aos="fade-up" data-aos-duration="1200">
                                                     <h4 class="bank-account-name">Atas Nama : <br> <span>Yussuf Faisal</span></h4>
                                                 </div>
-                                                <div class="copy-btn-wrap">
+                                                {{-- <div class="copy-btn-wrap">
                                                     <div class="copy-btn" data-copy="051101066766508">Salin</div>
+                                                </div> --}}
+                                                <hr data-aos="fade-up" data-aos-duration="1400">
+                                                <div data-aos="fade-up" data-aos-duration="1600">
+                                                    <h4 class="bank-name">BANK JATENG</h4>
+                                                </div>
+                                                <div data-aos="fade-up" data-aos-duration="1600">
+                                                    <h4 class="bank-account-number" data-copy="3112052100">No.Rekening : <br><span>311 205 2100</span> <div class="copy-btn" data-copy="3112052100">Salin</div></h4>
+                                                </div>
+                                                <div data-aos="fade-up" data-aos-duration="1600">
+                                                    <h4 class="bank-account-name">Atas Nama : <br> <span>Rosita Dewi Rahmawati</span></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -2557,13 +2566,13 @@
                             <div class="logo-1">
                                 <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
                                     data-aos-delay="1600">
-                                    <img src="/assets/logo-1.png" alt>
+                                    <img src="/assets/logo1.png" alt>
                                 </div>
                             </div>
                             <div class="logo-2">
                                 <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
                                     data-aos-delay="1600">
-                                    <img src="/assets/logo-2.png" alt>
+                                    <img src="/assets/logo2.png" alt>
                                 </div>
                             </div>
                         </div>

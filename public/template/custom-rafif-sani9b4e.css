@@ -1945,7 +1945,7 @@ section.cover .inner .foot .torsvp__btn:hover {
 
 /* Custom Helga-Marcel */
 .photo-box > a:nth-child(1) {
-  height: 235px;
+  height: 400px;
   flex-basis: 100%;
 }
 .photo-box > a:nth-child(2) {
@@ -1965,7 +1965,7 @@ section.cover .inner .foot .torsvp__btn:hover {
 .photo-box > a:nth-child(8) {
 }
 .photo-box > a:nth-child(9) {
-  height: 235px;
+  height: 400px;
   flex-basis: 100%;
 }
 
