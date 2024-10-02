@@ -16,16 +16,13 @@
     <meta property="og:url" content="https://rositadr.com" />
     <meta property="og:title" content="The Wedding of Yussuf &amp; Rosita" />
     <meta property="og:description" content="Invitation of Our Happy Wedding on Sunday, Dec 1st 2024" />
-    {{-- <meta property="og:image" content="http://katsudoto.id/media/public/33721/30423/thumbnail/thumb-md-349590-1000-1000-1717163089-5e5a2467aaf9e12c1e5ee7d6.jpeg" /> --}}
     <meta property="og:image" content="http://rositadr.com/images/hdj/under200kb.jpg" />
     <meta property="og:locale" content="in_ID">
 
-    {{-- <meta property="twitter:card" content="http://katsudoto.id/media/public/33721/30423/thumbnail/thumb-md-349590-1000-1000-1717163089-5e5a2467aaf9e12c1e5ee7d6.jpeg"> --}}
     <meta property="twitter:card" content="http://rositadr.com/images/hdj/under200kb.jpg">
     <meta property="twitter:url" content="https://rositadr.com">
     <meta property="twitter:title" content="The Wedding of Yussuf &amp; Rosita">
     <meta property="twitter:description" content="Invitation of Our Happy Wedding on Sunday, Dec 1st 2024">
-    {{-- <meta property="twitter:image" content="http://katsudoto.id/media/public/33721/30423/thumbnail/thumb-md-349590-1000-1000-1717163089-5e5a2467aaf9e12c1e5ee7d6.jpeg"> --}}
     <meta property="twitter:image" content="http://rositadr.com/images/hdj/under200kb.jpg">
 
     <script>
@@ -47,7 +44,7 @@
 
     <script src="/src/jquery.js"></script>
     <title>The Wedding of Yussuf &amp; Rosita</title>
-    <link rel="icon" href="/media/kat/favicon.png">
+    <link rel="icon" href="/images/rings.ico">
 
 
 
@@ -2244,9 +2241,9 @@
                                     alt="HLG01078-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/5.jpg"
+                                href="/images/hdj/kolase/11.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/5.jpg"
+                                <img src="/images/hdj/kolase/11.jpg"
                                     alt="HLG00967-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
@@ -2280,9 +2277,9 @@
                                     alt="HLG01902-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/11.jpg"
+                                href="/images/hdj/kolase/16.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/11.jpg"
+                                <img src="/images/hdj/kolase/16.jpg"
                                     alt="HLG01707-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
@@ -2704,8 +2701,8 @@
         var COVERS = [{
                 'position': 'MAIN',
                 'details': {
-                    'desktop': "<div class=\"picture desktop\">\n                                        <img src=\"/images/hdj/cover.jpg\" alt=\"\">\n                                    <\/div><div class=\"picture desktop\">\n                                        <img src=\"/images/hdj/cover2.jpg\" alt=\"\">\n                                    <\/div>",
-                    'mobile': "<div class=\"picture mobile\">\n                                        <img src=\"/images/hdj/cover.jpg\" alt=\"\">\n                                    <\/div><div class=\"picture mobile\">\n                                        <img src=\"/images/hdj/cover2.jpg\" alt=\"\">\n                                    <\/div>"
+                    'desktop': "<div class=\"picture desktop\">\n                                        <img src=\"/images/hdj/cover.jpg\" alt=\"\">\n                                    <\/div><div class=\"picture desktop\">\n                                        <img src=\"/images/hdj/cover2.jpg\" alt=\"\">\n                                    <\/div><div class=\"picture desktop\">\n                                        <img src=\"/images/hdj/cover3.jpg\" alt=\"\">\n                                    <\/div>",
+                    'mobile': "<div class=\"picture mobile\">\n                                        <img src=\"/images/hdj/cover.jpg\" alt=\"\">\n                                    <\/div><div class=\"picture mobile\">\n                                        <img src=\"/images/hdj/cover2.jpg\" alt=\"\">\n                                    <\/div><div class=\"picture mobile\">\n                                        <img src=\"/images/hdj/cover3.jpg\" alt=\"\">\n                                    <\/div>"
                 },
                 'element': '#cover-main'
             },
