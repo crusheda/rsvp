@@ -16,14 +16,17 @@
     <meta property="og:url" content="https://rositadr.com" />
     <meta property="og:title" content="The Wedding of Yussuf &amp; Rosita" />
     <meta property="og:description" content="Invitation of Our Happy Wedding on Sunday, Dec 1st 2024" />
-    <meta property="og:image" content="http://rositadr.com/images/hdj/cover2.jpg" />
+    <meta property="og:image" content="http://katsudoto.id/media/public/33721/30423/thumbnail/thumb-md-349590-1000-1000-1717163089-5e5a2467aaf9e12c1e5ee7d6.jpeg" />
+    {{-- <meta property="og:image" content="http://rositadr.com/images/hdj/cover2.jpg" /> --}}
     <meta property="og:locale" content="in_ID">
 
-    <meta property="twitter:card" content="http://rositadr.com/images/hdj/cover2.jpg">
+    <meta property="twitter:card" content="http://katsudoto.id/media/public/33721/30423/thumbnail/thumb-md-349590-1000-1000-1717163089-5e5a2467aaf9e12c1e5ee7d6.jpeg">
+    {{-- <meta property="twitter:card" content="http://rositadr.com/images/hdj/cover2.jpg"> --}}
     <meta property="twitter:url" content="https://rositadr.com">
     <meta property="twitter:title" content="The Wedding of Yussuf &amp; Rosita">
     <meta property="twitter:description" content="Invitation of Our Happy Wedding on Sunday, Dec 1st 2024">
-    <meta property="twitter:image" content="http://rositadr.com/images/hdj/cover2.jpg">
+    <meta property="twitter:image" content="http://katsudoto.id/media/public/33721/30423/thumbnail/thumb-md-349590-1000-1000-1717163089-5e5a2467aaf9e12c1e5ee7d6.jpeg">
+    {{-- <meta property="twitter:image" content="http://rositadr.com/images/hdj/cover2.jpg"> --}}
 
     <script>
         (function(w, d, s, l, i) {
