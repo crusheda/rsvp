@@ -2306,6 +2306,54 @@
                                 <img src="/images/hdj/kolase/15.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/7.jpg"
+                                target="_blank">
+                                <img src="/images/np/7.jpg"
+                                    alt="HLG01427-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/5.jpg"
+                                target="_blank">
+                                <img src="/images/np/5.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/6.jpg"
+                                target="_blank">
+                                <img src="/images/np/6.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/9.jpg"
+                                target="_blank">
+                                <img src="/images/np/9.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/8.jpg"
+                                target="_blank">
+                                <img src="/images/np/8.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/10.jpg"
+                                target="_blank">
+                                <img src="/images/np/10.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/4.jpg"
+                                target="_blank">
+                                <img src="/images/np/4.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/3.jpg"
+                                target="_blank">
+                                <img src="/images/np/3.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -2337,7 +2385,7 @@
                 </div>
             </section>
 
-            <section class=" wedding-gift-wrap" style="margin-top:30px">
+            <section class=" wedding-gift-wrap" style="margin-top:60px">
                 <div class="wedding-gift-inner">
                     <div class="gift-frame">
                         <div class="frame-wrap">
@@ -2458,7 +2506,7 @@
                 </div>
             </section>
 
-            {{-- <section class="wedding-wish-wrap" data-template>
+            <section class="wedding-wish-wrap" style="margin-top:-60px" data-template>
                 <div class="ornaments-wrapper">
                     <div class="orn-wish-1 left">
                         <div class="image-wrap" data-aos="fade-up" data-aos-duration="2000">
@@ -2496,7 +2544,7 @@
                             <img src="/assets/orn-10.html" alt>
                         </div>
                         <h1 class="wedding-wish-title" data-aos="fade-up" data-aos-duration="1200">
-                            Wedding Wish </h1>
+                            Kartu Ucapan </h1>
                     </div>
                     <div class="wedding-wish-body">
                         <div class="wedding-wish-form">
@@ -2508,30 +2556,27 @@
                                 </div>
                                 <div class="form-group guest-name-wrap " data-aos="fade-up"
                                     data-aos-duration="1200" data-aos-delay="200">
-                                    <input type="text" name="name" class="form-control guest-name"
-                                        placeholder="Name" value>
+                                    <input type="text" name="nama" id="nama" class="form-control guest-name"
+                                        placeholder="Nama Tamu" value>
                                 </div>
                                 <div class="form-group guest-comment-wrap" data-aos="fade-up"
                                     data-aos-duration="1200" data-aos-delay="300">
-                                    <textarea class="form-control guest-comment" name="comment" rows="1" placeholder="Give your wish"></textarea>
+                                    <textarea class="form-control guest-comment" name="ucapan" id="ucapan" rows="2" placeholder="Tuliskan Ucapan"></textarea>
                                 </div>
                                 <div class="submit-comment-wrap" data-aos="fade-up" data-aos-duration="1200"
                                     data-aos-delay="400">
-                                    <button type="submit" class="submit submit-comment" data-last>Send Wedding
-                                        Wish</button>
+                                    <button type="submit" class="submit submit-comment" onclick="kirimUcapan()" data-last>Kirim Ucapan</button>
                                 </div>
                             </form>
                         </div>
-                        <div class="comment-wrap">
-
-                        </div>
-                        <div class="more-comment-wrap" data-aos="fade-up" data-aos-duration="1200">
+                        <div class="comment-wrap show comment-max-height scrollable" id="ucapan-show"></div>
+                        {{-- <div class="more-comment-wrap show" data-aos="fade-up" data-aos-duration="1200" id="ucapan-loadmore">
                             <button type="button" id="moreComment" data-template data-start="0"
                                 data-load-text="Loading">Show more comments</button>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
-            </section> --}}
+            </section>
 
             <section class="footnote-wrap">
                 <div class="ornaments-wrapper">
@@ -2789,6 +2834,74 @@
                 }
             }
         })();
+    </script>
+    <script>
+        $(document).ready(function() {
+            refreshUcapan();
+        })
+
+        function kirimUcapan() {
+            var nama    = $("#nama").val();
+            var ucapan  = $("#ucapan").val();
+            if (nama == null || nama == '') {
+                alert('Nama tidak boleh kosong');
+            } else {
+                if (ucapan == null || ucapan == '') {
+                    alert('Ucapan tidak boleh dikosongi');
+                } else {
+                    if (ucapan.length < 5) {
+                        alert('Panjang tulisan ucapan terlalu pendek');
+                    } else {
+                        $.ajax({
+                            headers: {
+                                'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                            },
+                            url: "{{route('rsvp.ucapanStore')}}",
+                            method: 'post',
+                            data: {
+                                nama: nama,
+                                ucapan: ucapan,
+                            },
+                            // contentType: false,
+                            // processData: false,
+                            dataType: 'json',
+                            success: function(res){
+                                refreshUcapan();
+                            }
+                        })
+                    }
+                }
+            }
+        }
+
+        function refreshUcapan() {
+            $.ajax({
+                url: "/api/ucapan/get",
+                type: 'GET',
+                dataType: 'json', // added data type
+                success: function(res) {
+                    $("#ucapan-show").empty();
+                    if (res != null) {
+                        res.forEach(item => {
+                            $("#ucapan-show").append(`
+                                <div class="comment-item aos-init aos-animate" id="comment0" data-aos="fade-up" data-aos-duration="1200">
+                                    <div class="comment-head">
+                                        <h3 class="comment-name"><u>${item.nama}</u></h3>
+                                        <h6 class="comment-date">${new Date(item.created_at).toLocaleString("sv-SE")}</h6>
+
+                                    </div>
+                                    <div class="comment-body">
+                                        <p class="comment-caption">${item.ucapan}</p>
+                                    </div>
+                                </div>
+                            `);
+                        })
+                    }
+                    $("#nama").val('');
+                    $("#ucapan").val('');
+                }
+            })
+        }
     </script>
 </body>
 </html>

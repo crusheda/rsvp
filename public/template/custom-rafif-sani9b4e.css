@@ -476,9 +476,9 @@ section.top-cover .inner {
 }
 
 section.top-cover .inner .head {
-  padding-top: 7%;
+  padding-top: 25%;
   text-align: center;
-  max-width: 100px;
+  /* max-width: 100px; */
   margin: 0 auto;
 }
 
@@ -3021,7 +3021,7 @@ section.video-gallery .inner .video-outer .video > .title h2 {
   box-shadow: none;
 }
 .wedding-wish-form textarea.form-control {
-  min-height: 40px;
+  min-height: 50px;
   max-height: 250px;
 }
 .wedding-wish-form .submit-comment {
@@ -3106,7 +3106,8 @@ section.video-gallery .inner .video-outer .video > .title h2 {
 }
 .comment-head .comment-date {
   font-family: var(--body-text-family);
-  font-size: calc(var(--body-text-size) - var(--fs-extra-1));
+  /* font-size: calc(var(--body-text-size) - var(--fs-extra-1)); */
+  font-size: 12px;
   font-weight: 600;
   line-height: 16px;
   display: block;
@@ -3967,6 +3968,15 @@ section.video-gallery .inner .video-outer .video > .title h2 {
   animation: goyang 5s ease-in-out infinite alternate;
 }
 
+.comment-max-height{
+    /* width: 400px; */
+    max-height: 500px;
+    /* margin: 30px auto; */
+}
+.scrollable{
+    overflow-y: auto;
+    /* max-height: 300px; */
+}
 
 
 

@@ -17,3 +17,5 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
+Route::get('/ucapan/get', [App\Http\Controllers\RsvpController::class, 'ucapanGet'])->name('rsvp.ucapanGet');
+Route::post('/ucapan/store', [App\Http\Controllers\RsvpController::class, 'ucapanStore'])->name('rsvp.ucapanStore');

@@ -1,849 +1,2907 @@
 <!DOCTYPE html>
-<html lang="id" class="notranslate" translate="no">
+<html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
-    {{-- <meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <meta name="color-scheme" content="light only">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
-    <meta name="google" content="notranslate" />
-    <title>Wedding - Colored Beach</title>
-    <meta name="title" content="Wedding  - Colored Beach">
-    <meta name="description" content="tema undangan flat minimalist">
-    <meta itemprop="image" content="https://satumomen.com/themes/colored-beach/colored-beach.webp">
 
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="colored-beach.html">
-    <meta property="og:title" content="Wedding  - Colored Beach">
-    <meta property="og:description" content="tema undangan flat minimalist"> --}}
+    <meta name="title" content="The Wedding of Yussuf &amp; Rosita">
+    <meta name="description" content="Invitation of Our Happy Wedding on Sunday, Dec 1st 2024">
 
-    <title>Yussuf & Rosita</title>
-    <meta name='robots' content='noindex, nofollow'/>
-    <link rel='dns-prefetch' href='//ajax.googleapis.com'/>
-    <meta name="color-scheme" content="light only">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="google" content="notranslate">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="theme-color" content="#fffff"/>
-    <meta property="fb:app_id" content="456409989064574"/>
-    <meta property="og:title" content="The Wedding of Yussuf & Rosita"/>
-    <meta property="og:type" content="article"/>
-    <meta property="og:url" content="https://rositadr.com"/>
-    <meta property="og:description" content="Invitation of Our Happy Wedding"/>
-    <meta property="og:image" content="https://rositadr.com/images/hdj/cover.jpg">
-    <meta property="og:image:width" content="640">
-    <meta property="og:image:height" content="300">
-    <link rel="canonical" href="https://foreverr.id/demo/uw003/"/>
-    <link rel="icon" href="https://foreverr.id/wp-content/uploads/2023/01/foreverr_img-32x32.png" sizes="32x32"/>
-    <link rel="icon" href="https://foreverr.id/wp-content/uploads/2023/01/foreverr_img-192x192.png" sizes="192x192"/>
-    <link rel="apple-touch-icon" href="https://foreverr.id/wp-content/uploads/2023/01/foreverr_img-180x180.png"/>
-    <meta name="msapplication-TileImage" content="https://foreverr.id/wp-content/uploads/2023/01/foreverr_img-270x270.png"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="https://rositadr.com">
+    <meta property="og:url" content="https://rositadr.com" />
+    <meta property="og:title" content="The Wedding of Yussuf &amp; Rosita" />
+    <meta property="og:description" content="Invitation of Our Happy Wedding on Sunday, Dec 1st 2024" />
+    <meta property="og:image" content="http://rositadr.com/images/hdj/under200kb.jpg" />
+    <meta property="og:locale" content="in_ID">
 
-    <link rel="preconnect" href="https://fonts.googleapis.com/">
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <meta property="twitter:card" content="http://rositadr.com/images/hdj/under200kb.jpg">
+    <meta property="twitter:url" content="https://rositadr.com">
+    <meta property="twitter:title" content="The Wedding of Yussuf &amp; Rosita">
+    <meta property="twitter:description" content="Invitation of Our Happy Wedding to on Sunday, Dec 1st 2024">
+    <meta property="twitter:image" content="http://rositadr.com/images/hdj/under200kb.jpg">
 
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            // j.src ='/www.googletagmanager.com/gtm5445.html?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-P7SMP7M');
+    </script>
 
-    {{-- <script type="application/ld+json">
-        {
-          "@context": "https://schema.org/",
-          "@type": "Product",
-          "name": "Wedding  - Colored Beach",
-          "image": "https://satumomen.com/themes/colored-beach/colored-beach.webp",
-          "description": "tema undangan flat minimalist",
-          "brand": {
-            "@type": "Brand",
-            "name": "Satu Momen"
-          },
-          "review": {
-            "@type": "Review",
-            "reviewRating": {
-              "@type": "Rating",
-              "ratingValue": "5",
-              "bestRating": "5"
-            },
-            "author": {
-              "@type": "Person",
-              "name": "Elsa Gunayanti"
-            }
-          },
-          "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "reviewCount": "381"
-          },
-          "offers": {
-            "@type": "Offer",
-            "url": "https://satumomen.com/harga",
-            "priceCurrency": "IDR",
-            "price": "75000",
-            "availability": "https://schema.org/InStock",
-            "itemCondition": "https://schema.org/NewCondition"
-          }
-        }
-    </script> --}}
+    <script src="/src/jquery.js"></script>
+    <title>The Wedding of Yussuf &amp; Rosita</title>
+    <link rel="icon" href="/images/rings.ico">
 
 
-    <!-- css -->
-    <link rel="stylesheet" href="/plugins/animate.css%404.1.1/animate.min.css">
-    <link href="/themes/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/icons/%40phosphor-icons/web%402.0.3/src/fill/style.css" />
-    <link href="/themes/themes-scroll3cfe.css?v=080375" rel="stylesheet">
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Aboreto&amp;family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;display=swap');
-        @import url("/fonts/prestige-signature-script/fonts.css");
 
-        :root {
-            --inv-bg: #dee7e8;
-            --inv-base: #303740;
-            --inv-accent: #557C8D;
-            --inv-border: #f0f0f0;
-            --menu-bg: #f9fffb;
-            --menu-inactive: #547c8d;
-            --menu-active: #547c8d;
-            --btn-color: #ffffff;
-            --font-base: "Open Sans", sans-serif;
-            --font-accent: "Aboreto", system-ui;
-            --font-latin: "Prestige Signature Script", cursive;
+    <link rel="preload" as="style"
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=block">
+    <style type="text/css">
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/100/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
         }
 
-        .bg-couple {
-            border-radius: 2rem;
-            background-color: #ffffffad;
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/100/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/100/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/100/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/100/normal.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/100/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/100/normal.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/300/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/300/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/300/normal.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/300/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/300/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/300/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/300/normal.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/400/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/400/normal.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/400/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/400/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/400/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/400/normal.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/400/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/500/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/500/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/500/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/500/normal.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/500/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/500/normal.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/500/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/700/normal.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/700/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/700/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/700/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/700/normal.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/700/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/700/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/900/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/900/normal.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/900/normal.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/900/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/900/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/900/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/900/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/100/italic.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/100/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/100/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/100/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/100/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/100/italic.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 100;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/100/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/300/italic.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/300/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/300/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/300/italic.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/300/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/300/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/300/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/400/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/400/italic.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/400/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/400/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/400/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/400/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/400/italic.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/500/italic.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/500/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/500/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/500/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/500/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/500/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/500/italic.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/700/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/700/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/700/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/700/italic.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/700/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/700/italic.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/700/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek/900/italic.html);
+            unicode-range: U+0370-03FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/greek-ext/900/italic.html);
+            unicode-range: U+1F00-1FFF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic/900/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin-ext/900/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/vietnamese/900/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/latin/900/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Roboto;
+            font-style: italic;
+            font-weight: 900;
+            src: url(/cf-fonts/s/roboto/5.0.11/cyrillic-ext/900/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
         }
     </style>
 
+    <link rel="stylesheet" href="/plugin/selectize/dist/css/selectize.default.css">
+    <link rel="stylesheet" href="/plugin/flexbin/flexbin.css" media="all">
+    <link rel="stylesheet" href="/plugin/aos/dist/aos.css">
+    <link rel="stylesheet" href="/plugin/lightgallery/dist/css/lightgallery.css">
+    <link rel="stylesheet" href="/plugin/fontawesome/css/all.css">
+    <link rel="stylesheet" href="/plugin/slick/slick.css">
+    <link rel="stylesheet" href="/plugin/modal-video/css/modal-video.min.css">
 
-    <style>
-        @import url('/fonts/brittany_signature/BrittanySignature.css');
-        @import url('/fonts/photograph_signature/fonts.css');
-        @import url('/fonts/heatwood/Heatwood.css');
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
 
-        .font-brittany-signature {
-            font-family: 'Brittany Signature';
-            line-height: 1.6 !important;
+    <link rel="stylesheet" href="/src/universal9b4e.css?1727783442">
+    <link rel="stylesheet" href="/src/template/global9b4e.css?1727783442">
+    <link rel="stylesheet" type="text/css" href="/src/kado-template.1722393118.css">
+
+    <link rel="preload" as="style"
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&amp;family=Milonga&amp;display=block">
+    <style type="text/css">
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin-ext/300/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
         }
 
-        .font-photograph-signature {
-            font-family: 'Photograph Signature';
-            line-height: 1.6 !important;
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/vietnamese/300/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
         }
 
-        .font-heatwood {
-            font-family: 'Heatwood';
-            line-height: 3 !important;
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic-ext/300/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin/300/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic/300/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin-ext/400/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin/400/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic-ext/400/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic/400/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/vietnamese/400/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic-ext/500/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/vietnamese/500/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic/500/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin/500/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin-ext/500/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 600;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/vietnamese/600/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 600;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin/600/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 600;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin-ext/600/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 600;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic-ext/600/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 600;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic/600/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic-ext/700/normal.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/vietnamese/700/normal.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic/700/normal.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin-ext/700/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin/700/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic/300/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic-ext/300/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin-ext/300/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/vietnamese/300/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 300;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin/300/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic/400/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin/400/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/vietnamese/400/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin-ext/400/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 400;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic-ext/400/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/vietnamese/500/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic/500/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin-ext/500/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic-ext/500/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 500;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin/500/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 600;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic-ext/600/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 600;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin/600/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 600;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin-ext/600/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 600;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/vietnamese/600/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 600;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic/600/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin-ext/700/italic.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/vietnamese/700/italic.html);
+            unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/latin/700/italic.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic/700/italic.html);
+            unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Cormorant Garamond;
+            font-style: italic;
+            font-weight: 700;
+            src: url(/cf-fonts/s/cormorant-garamond/5.0.11/cyrillic-ext/700/italic.html);
+            unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Milonga;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/milonga/5.0.18/latin/400/normal.html);
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            font-display: block;
+        }
+
+        @font-face {
+            font-family: Milonga;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/cf-fonts/s/milonga/5.0.18/latin-ext/400/normal.html);
+            unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            font-display: block;
         }
     </style>
+    <link rel="stylesheet" href="/template/custom-rafif-sani9b4e.css?1727783442">
 </head>
 
-<body>
-    <main id="app">
-        <div id="modalOverlay" class="modal-backdrop fade" style="display: none;"></div>
-        <!-- Loader -->
-        <div id="loader" class="loader-wrapper"><span class="loader"><span class="loader-inner"></span></span></div>
-        <!-- music -->
-        <audio id="music" loop autoplay>
-            <source src="https://assets.satumomen.com/musics/Yoon-Mirae-instrumental-OST-Part-2.mp3">
-        </audio>
-        <!-- end music -->
-        <div id="satuMomen" data-guest="Nama Tamu" data-group="VIP" class="not-open">
-            <div class="satumomen_track">
-                <ul class="satumomen_list">
-                    <li class="container-mobile satumomen_slide satumomen_cover"
-                        style="background-image: url(https://satumomen.com/themes/colored-beach/bg.webp); ;">
-                        <div class="workspace cover">
-                            <div class="content h-100 w-100 mx-auto">
-                                <iframe
-                                    src="https://lottie.host/embed/584ce588-3488-40f1-abe2-7370abda0a68/PPleN85etM.json"
-                                    style="border:0;width:100%;height:100%;position:absolute;left:0;top:0;right:0;bottom:0;"></iframe>
+<body class="  rafif-sani original" data-template>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7SMP7M" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
 
-                                <div class="position-relative h-100 d-flex justify-content-center align-items-center flex-column"
-                                    style="z-index:1;">
-                                    <div class="w-100">
-                                        <div class="text-center animate__animated animate__fadeInDown animate__slower">
-                                            <div class="editable mb-2" style="font-size:14.4px;letter-spacing:4px;">THE
-                                                WEDDING OF</div>
-                                            <div class="editable color-accent mb-3 font-accent" style="font-size:40px;">
-                                                Yussuf &amp; Rosita</div>
-                                        </div>
-                                    </div>
-                                    <div class="w-100">
-                                        <div class="text-center">
-                                            <div style="border-radius:0.5rem;padding:10px;max-width:290px;"
-                                                class="mx-auto">
-                                                <div class="editable mb-1 animate__animated animate__fadeInUp animate__slower"
-                                                    style="font-size:14.4px;">Kepada Yth;<br />Bapak/Ibu/Saudara/i</div>
-                                                <div id="guestNameSlot"
-                                                    class="editable color-accent h5 mb-3 font-weight-bold animate__animated animate__fadeInUp animate__slower"
-                                                    style="font-size:18px;">Nama Tamu</div>
-                                            </div> <button
-                                                class="btn-open-invitation btn btn-primary rounded-pill animate__animated animate__fadeInUp animate__slow"
-                                                style="font-size:14.4px;">Open Invitation</button>
+    <section class="kat-page__side-to-side">
+
+        <section class="primary-pane">
+            <div class=" inner">
+                <div class="ornaments-wrapper">
+                    <div class="orn-footnote-1 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1800" data-aos-delay="1500">
+                            <img src="/assets/Orn-23.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-footnote-1 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1800" data-aos-delay="1500">
+                            <img src="/assets/Orn-23.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-footnote-2 right">
+                        <div class="image-wrap" data-aos="fade-left" data-aos-duration="1800" data-aos-delay="1500">
+                            <img src="/assets/Tree.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-footnote-2 left">
+                        <div class="image-wrap" data-aos="fade-left" data-aos-duration="1800" data-aos-delay="1500">
+                            <img src="/assets/Tree.png" alt>
+                        </div>
+                    </div>
+                </div>
+                <div class="details">
+                    <div class="logo-wrapper">
+                        <div class="logo-1">
+                            <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
+                                data-aos-delay="1600">
+                                <img src="/assets/logo1.png" alt>
+                            </div>
+                            <div class="logo-2">
+                                <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
+                                    data-aos-delay="1600">
+                                    <img src="/assets/logo2.png" alt>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ornaments-wrapper">
+                    <div class="orn-cover-5 right">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-22.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-cover-5 left">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-22.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-cover-6 right">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-21.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-cover-6 left">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-21.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-cover-3 center">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1800" data-aos-delay="1000">
+                            <img src="/assets/Orn-19.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-cover-2 center">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-20.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-cover-4 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-26.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-cover-4 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-26.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-cover-1 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-25.png" alt>
+                        </div>
+                    </div>
+                    <div class=" orn-cover-1 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-25.png" alt>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class=" secondary-pane">
+            <section class="top-cover">
+                <div class="ornaments-wrapper">
+                    <div class="orn-footnote-1 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1800"
+                            data-aos-delay="1500">
+                            <img src="/assets/Orn-23.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-footnote-1 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1800"
+                            data-aos-delay="1500">
+                            <img src="/assets/Orn-23.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-footnote-2 right">
+                        <div class="image-wrap" data-aos="fade-left" data-aos-duration="1800" data-aos-delay="1500">
+                            <img src="/assets/Tree.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-footnote-2 left">
+                        <div class="image-wrap" data-aos="fade-left" data-aos-duration="1800" data-aos-delay="1500">
+                            <img src="/assets/Tree.png" alt>
+                        </div>
+                    </div>
+                </div>
+                <div class="inner">
+                    <div class="logo-wrapper">
+                        <div class="logo-1">
+                            <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
+                                data-aos-delay="1600">
+                                <img src="/assets/logo1.png" alt>
+                            </div>
+                            <div class="logo-2">
+                                <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
+                                    data-aos-delay="1600">
+                                    <img src="/assets/logo2.png" alt>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="orn-wrapper" id="trigger-button">
+                        <div class="head">
+                            <a data-aos="fade-up" data-aos-duration="850" data-aos-delay="1600" style="font-size: 14px"><b>Kepada :</b><br><b style="font-size: 20px"><mark style="background-color: whitesmoke"><u>{{ $nama }}</u></mark></b></a>
+                        </div>
+                        <div class="details">
+                            <div class="link-wrap" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="850"
+                                data-aos-anchor="#trigger-button">
+                                <a href="javascript:;" onclick="startTheJourney()" class="link"
+                                    id="startToExplore">Buka Undangan</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ornaments-wrapper">
+                    <div class="orn-cover-5 right">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-22.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-5 left">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-22.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-6 right">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-21.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-6 left">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-21.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-3 center">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1800" data-aos-delay="1000">
+                            <img src="/assets/Orn-19.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-2 center">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-20.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-4 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-26.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-4 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-26.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-1 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-25.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-1 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-25.png" alt>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="cover">
+                <div class="inner">
+                    <div class="head">
+                        <h1 class="prime-title" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200" style="font-size: 40px">The Wedding of</h1>
+                        <h2 class="prime-title" data-aos="zoom-in" data-aos-duration="1400" data-aos-delay="600" style="font-size: 30px">Yussuf &amp; Rosita</h2>
+                    </div>
+                    <div class="body highlight" data-aos="zoom-in-up" data-aos-duration="1200" data-aos-delay="500">
+                        <div class="cover-frame" id="coverFrame">
+                            <div class="preview-container cover-show" id="cover-main">
+                            </div>
+                        </div>
+                        <div class="ornaments-wrapper">
+                            <div class="orn-kupu-3">
+                                <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1900" data-aos-delay="1000">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ornaments-wrapper">
+                    <div class="orn-cover-5 right">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-22.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-5 left">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-22.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-6 right">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-21.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-6 left">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-21.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-3 center">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1800" data-aos-delay="1000">
+                            <img src="/assets/Orn-19.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-2 center">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-20.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-4 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-26.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-4 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-26.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-1 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-25.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-1 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="800">
+                            <img src="/assets/Orn-25.png" alt>
+                        </div>
+                    </div>
+                </div><br><br>
+            </section>
+
+            <section class="quote-wrap">
+                <div class="quote">
+                    <div class="quotes-frame">
+                        <div class="image-wrap" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="650">
+
+                            <img src="/assets/Orn-17.png" alt>
+                        </div>
+                        <div class="quotes-content">
+                            <p class="quote-caption" data-aos="fade-up" data-aos-duration="2200">
+                                "Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan
+                                untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia
+                                menjadikan di antaramu rasa kasih dan sayang" </p>
+                            <p class="quote-caption-bottom" data-aos="fade-up" data-aos-duration="2200">QS. Ar-Rum : 21
+                            </p>
+                        </div>
+                        <div class="ornaments-wrapper">
+                            <div class="orn-quote-1 left">
+                                <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1800"
+                                    data-aos-delay="1000">
+                                    <img src="/assets/Orn-15.png" alt>
+                                </div>
+                            </div>
+                            <div class="orn-quote-2 left">
+                                <div class="image-wrap" data-aos="fade-up" data-aos-duration="1900"
+                                    data-aos-delay="1100">
+                                    <img src="/assets/Orn-28.png" alt>
+                                </div>
+                            </div>
+                            <div class="orn-quote-1 right">
+                                <div class="image-wrap" data-aos="fade-down-left" data-aos-duration="1800"
+                                    data-aos-delay="1100">
+                                    <img src="/assets/Orn-16.png" alt>
+                                </div>
+                            </div>
+                            <div class="orn-quote-2 right">
+                                <div class="image-wrap" data-aos="fade-down" data-aos-duration="1900"
+                                    data-aos-delay="1000">
+                                    <img src="/assets/Orn-27.png" alt>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="couple-wrap">
+                <div class="couple">
+                    <div class="couple-head">
+                        <div class="orn-bismillah">
+                            <img src="/assets/orn-doa.png" alt>
+                        </div>
+
+                        <p class="couple-description" data-aos="fade-up" data-aos-duration="1000">Assalamualaikum Wr. Wb.<br />
+                            Dengan segala kemurahan hati dan karunia Allah SWT, kami mengundang Bapak/Ibu dan Mas/Mbak sekalian ke acara pernikahan :</p>
+                    </div>
+                    <div class="couple-body   show-picture  ">
+                        <div class="couple-info groom">
+                            <div class="groom-name-wrap">
+                                <h1 class="couple-name-top">Yussuf
+                                </h1>
+                                <p class="couple-name-bottom">Yussuf Faisal, S.Kom</p>
+                            </div>
+                            <div class="couple-preview">
+                                <div class="ornaments-wrapper">
+                                    <div class="orn-couple-edge">
+                                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1300"
+                                            data-aos-delay="900">
+                                            <img src="/assets/Orn-14.png" alt>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-
-                        </div>
-                    </li>
-                    <li class="container-mobile satumomen_slide"
-                        style="background-image: url(/images/invitation/bg-section-40992341724476464.jpg); background-size: cover;">
-                        <div class="workspace ">
-                            <div class="content h-100 w-100 mx-auto">
-                                <div class="h-100 d-flex justify-content-center align-items-start">
-                                    <div class="w-100">
-                                        <div class="editable mb-3 text-center animate__animated animate__fadeInDown animate__slower"
-                                            style="font-size:14.4px;letter-spacing:4px;color:rgb(255, 255, 255);">THE
-                                            WEDDING OF</div>
-                                        <div class="editable text-center animate__animated animate__fadeInUp animate__slower font-latin"
-                                            style="font-size:50px;color:rgb(255, 255, 255);">Totok &amp; Arni</div>
-                                    </div>
-
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </li>
-                    <li class="container-mobile satumomen_slide"
-                        style="background-image: url(https://satumomen.com/themes/colored-beach/bg.webp); ;">
-                        <div class="workspace ">
-                            <div class="content h-100 w-100 mx-auto">
-                                <div class="d-flex justify-content-center align-items-center"
-                                    style="margin:-30px;height:calc(100% + 60px);width:calc(100% + 60px);padding:30px;background-color:var(--inv-bg);">
-                                    <div class="w-100"
-                                        style="background-color:var(--inv-accent);color:var(--inv-bg);border-radius:2rem;overflow:hidden;">
-                                        <div class="text-center animate__animated animate__fadeInUp animate__slower"
-                                            style="padding:30px;">
-                                            <div class="editable quotes mb-3" style="font-size:14.4px;">Setiap langkah
-                                                dalam pernikahan adalah peluang untuk memperkuat cinta dan komitmen kita
-                                                satu sama lain, membentuk fondasi yang kokoh untuk masa depan yang
-                                                gemilang bersama.</div>
-                                            <div class="editable font-italic" style="font-size:14.4px;">Wedding Vows
-                                            </div>
-                                        </div>
-                                        <div class="image-editable mx-auto animate__animated animate__fadeInUp animate__slower"
-                                            style="height:400px;width:100%;overflow:hidden;"><img
-                                                src="/images/galleries/358798-gallery-uhFn9Qs14e.jpg"
-                                                style="width: 100%;height: 100%;object-fit: cover;"
-                                                alt="32840-gallery-1681321925.jpg" /></div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </li>
-                    <li class="container-mobile satumomen_slide"
-                        style="background-image: url(/images/invitation/bg-section-40992361724476485.jpg); background-size: cover;">
-                        <div class="workspace ">
-                            <div class="content h-100 w-100 mx-auto">
-                                <div class="h-100 d-flex justify-content-center align-items-center">
-                                    <div style="max-width:350px;width:100%;" class="mx-auto">
-
-                                        <div
-                                            class="bg-couple p-3 animate__animated animate__fadeInLeft animate__slower">
-
-                                            <div class="position-relative frame-groom mx-auto mb-4 animate__animated animate__pulse animate__infinite infinite animate__slower"
-                                                style="height:130px;width:100px;">
-                                                <div class="image-editable"
-                                                    style="height:130px;width:100px;border-radius:10rem;overflow:hidden;">
-                                                    <img src="/images/galleries/358798-gallery-JD5rp8Vils.jpg"
-                                                        style="width: 100%;height: 100%;object-fit: cover;"
-                                                        alt="no-image.jpg" />
+                                <div class="couple-frame">
+                                    <div class="couple-picture-wrap">
+                                        <div class="ornaments-wrapper">
+                                            <div class="orn-couple-1">
+                                                <div class="image-wrap" data-aos="fade-up-left"
+                                                    data-aos-duration="1300" data-aos-delay="900">
+                                                    <img src="/assets/Orn-13.png" alt>
                                                 </div>
                                             </div>
-                                            <div
-                                                class="text-center animate__animated animate__fadeInUp animate__slower">
-                                                <div class="editable h4 mb-2 font-accent" style="font-size:16px;">
-                                                    Aspili Dewi Arni S.Farm</div>
-                                                <div class="editable mb-2" style="font-size:12px;">Daughter of Yosep
-                                                    &amp; Ningsih,S.Ip</div>
-                                                <a class="btn link btn-sm btn-primary rounded-pill animate__animated animate__zoomIn"
-                                                    style="background-image:url(/images/galleries/356413-gallery-hGl77ZJ2pB.png);background-size:14px;width:24px;height:24px;background-repeat:no-repeat;background-position:center;"
-                                                    target="_BLANK" rel="nofollow noreferrer noopener"
-                                                    href="https://instagram.com/"></a>
-                                            </div>
-
-
-                                        </div>
-                                        <div class="text-center py-2">
-                                            <div class="editable animate__animated animate__zoomIn animate__slower font-latin"
-                                                style="font-size:18px;">Bersanding Dengan</div>
-
-                                        </div>
-                                        <div
-                                            class="bg-couple p-3 animate__animated animate__fadeInRight animate__slower">
-
-                                            <div class="position-relative frame-bride mx-auto mb-4 animate__animated animate__pulse animate__infinite infinite animate__slower"
-                                                style="height:130px;width:100px;">
-                                                <div class="image-editable"
-                                                    style="height:130px;width:100px;border-radius:10rem;overflow:hidden;">
-                                                    <img src="/images/galleries/358798-gallery-g5lRYl8ug2.jpg"
-                                                        style="width: 100%;height: 100%;object-fit: cover;"
-                                                        alt="no-image.jpg" />
+                                            <div class="orn-couple-6">
+                                                <div class="image-wrap" data-aos="fade-left" data-aos-duration="1300"
+                                                    data-aos-delay="900">
+                                                    <img src="/assets/Orn-12.png" alt>
                                                 </div>
                                             </div>
-                                            <div
-                                                class="text-center animate__animated animate__fadeInUp animate__slower">
-                                                <div class="editable h4 mb-2 font-accent" style="font-size:16px;">
-                                                    TOTOK NURWADI</div>
-                                                <div class="editable mb-1" style="font-size:12px;">Son of Pampang
-                                                    Langi',S.Pd &amp; Asni</div>
-                                                <a class="btn link btn-sm btn-primary rounded-pill animate__animated animate__zoomIn"
-                                                    style="background-image:url(/images/galleries/356413-gallery-hGl77ZJ2pB.png);background-size:14px;width:24px;height:24px;background-repeat:no-repeat;background-position:center;"
-                                                    target="_BLANK" rel="nofollow noreferrer noopener"
-                                                    href="https://instagram.com/"></a>
-                                            </div>
-
-
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </li>
-                    <li class="container-mobile satumomen_slide"
-                        style="background-image: url(https://satumomen.com/themes/colored-beach/bg.webp); ;">
-                        <div class="workspace ">
-                            <div class="content h-100 w-100 mx-auto">
-                                <iframe
-                                    src="https://lottie.host/embed/584ce588-3488-40f1-abe2-7370abda0a68/PPleN85etM.json"
-                                    style="border:0;width:100%;height:100%;position:absolute;left:0;top:0;right:0;bottom:0;"></iframe>
-
-                                <div class="position-relative d-flex justify-content-center align-items-center"
-                                    style="background-size:cover;margin:-30px;height:calc(100% + 60px);width:calc(100% + 60px);padding:60px 30px;z-index:1;">
-                                    <div class="w-100 position-relative"
-                                        style="background-color:#ffffff80;background-size:cover;border-radius:20rem;padding:5rem 1rem;color:var(--inv-base);max-width:340px;">
-                                        <div
-                                            class="text-center mb-4 animate__animated animate__fadeInDown animate__slower">
-                                            <div class="editable color-accent font-latin" style="font-size:30px;">Akad
-                                            </div>
-
-
-
-                                            <div class="editable"
-                                                style="font-size:14px;margin-left:41px;margin-top:-10px;letter-spacing:2px;">
-                                                NIKAH</div>
+                                        <div class="couple-picture lightgallery" data-aos="fade-up-right"
+                                            data-aos-duration="900" data-aos-once="false">
+                                            <a class="img-wrap"
+                                                href="/images/hdj/me1.jpg"
+                                                target="_blank">
+                                                <img class="img"
+                                                    src="/images/hdj/me1.jpg"
+                                                    alt>
+                                            </a>
                                         </div>
-                                        <div class="text-center animate__animated animate__fadeInLeft animate__slower">
-                                            <div class="editable color-accent h4 mb-2 font-weight-bold"
-                                                style="font-size:18px;">SABTU, 07 SEPTEMBER 2024</div>
-                                            <div class="editable font-weight-bold" style="font-size:14.4px;">PUKUL
+                                        <div class="ornaments-wrapper">
+                                            <div class="orn-couple-2">
+                                                <div class="image-wrap" data-aos="fade-right"
+                                                    data-aos-duration="1300" data-aos-delay="900">
+                                                    <img src="/assets/Orn-15.png" alt>
+                                                </div>
                                             </div>
-                                            <div class="editable" style="font-size:14.4px;">08.00-10.00 WIB</div>
-                                            <div class="editable font-weight-bold" style="font-size:18px;">COLABORACI
+                                            <div class="orn-couple-3">
+                                                <div class="image-wrap" data-aos="fade-right"
+                                                    data-aos-duration="1300" data-aos-delay="900">
+                                                    <img src="/assets/Orn-26.png" alt>
+                                                </div>
                                             </div>
-                                            <div class="editable" style="font-size:12px;">Jalan Cipanas Baru,
-                                                Kabupaten Garut</div><a
-                                                class="mt-3 btn btn-sm btn-primary rounded-pill link" target="_BLANK"
-                                                rel="nofollow noreferrer noopener" href="#">Petunjuk Lokasi</a>
-                                        </div>
-                                        <div class="my-4 d-flex flex-column animate__animated animate__zoomIn animate__slower"
-                                            style="margin-left:-1rem;margin-right:-1rem;height:1px;background-color:var(--inv-border);">
-
-
-                                        </div>
-                                        <div
-                                            class="text-center mb-4 animate__animated animate__fadeInDown animate__slower">
-                                            <div class="editable color-accent font-latin" style="font-size:30px;">
-                                                Resepsi</div>
-
-
-
-                                            <div class="editable"
-                                                style="font-size:14px;margin-left:41px;margin-top:-10px;letter-spacing:2px;">
-                                                NIKAH</div>
-                                        </div>
-
-
-                                        <div class="text-center animate__animated animate__fadeInRight animate__slower"
-                                            style="z-index:2;position:relative;">
-                                            <div class="editable color-accent h4 mb-2 font-weight-bold"
-                                                style="font-size:18px;">SABTU, 07 SEPTEMBER 2024</div>
-                                            <div class="editable font-weight-bold" style="font-size:14.4px;">PUKUL
+                                            <div class="orn-couple-5">
+                                                <div class="image-wrap" data-aos="fade-left" data-aos-duration="1500"
+                                                    data-aos-delay="1000">
+                                                    <img src="/assets/Orn-29.png" alt>
+                                                </div>
                                             </div>
-                                            <div class="editable" style="font-size:14.4px;">10.00-14.00 WIB</div>
-                                            <div class="editable font-weight-bold" style="font-size:18px;">COLABORACI
-                                            </div>
-                                            <div class="editable" style="font-size:12px;">Jalan Cipanas Baru,
-                                                Kabupaten Garut</div><a
-                                                class="mt-3 btn btn-sm btn-primary rounded-pill link" target="_BLANK"
-                                                rel="nofollow noreferrer noopener" href="#">Petunjuk Lokasi</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </li>
-                    <li class="container-mobile satumomen_slide"
-                        style="background-image: url(https://satumomen.com/themes/colored-beach/bg.webp); ;">
-                        <div class="workspace ">
-                            <div class="content h-100 w-100 mx-auto">
-                                <div class="d-flex flex-column justify-content-center align-items-center"
-                                    style="margin:-30px;height:calc(100% + 60px);width:calc(100% + 60px);padding:30px;background-color:var(--inv-bg);color:var(--inv-accent);">
-                                    <div class="editable text-center color-accent h4 mb-4 animate__animated animate__fadeInDown animate__slower font-accent"
-                                        style="font-size:28.8px;">Love Story</div>
-                                    <div>
-                                        <div class="d-flex align-items-start justify-content-center mb-3">
-                                            <div
-                                                class="text-center animate__animated animate__fadeInRight animate__slower">
-                                                <div class="editable font-weight-bold mb-2" style="font-size:12px;">
-                                                    First Meet (2013)</div>
-                                                <div class="editable" style="line-height:1.3;font-size:12px;">Bulan
-                                                    agustus 2013 kami pertama kali bertemu dalam Ospek Perkuliahan.
-                                                    Dalam masa kuliah kami hanya teman biasa.</div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="d-flex align-items-start justify-content-center flex-row-reverse mb-3">
-                                            <div
-                                                class="text-center animate__animated animate__fadeInLeft animate__slower">
-                                                <div class="editable font-weight-bold mb-2" style="font-size:12px;">
-                                                    Relationship (2018)</div>
-                                                <div class="editable" style="line-height:1.3;font-size:12px;">25
-                                                    Februari 2018 kami mengikat janji sebagai sepasang kekasih.</div>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex align-items-start justify-content-center mb-3">
-                                            <div
-                                                class="text-center animate__animated animate__fadeInRight animate__slower">
-                                                <div class="editable font-weight-bold mb-2" style="font-size:12px;">
-                                                    Engagement (2021)</div>
-                                                <div class="editable" style="line-height:1.3;font-size:12px;">
-                                                    Lika-liku hubungan kami lalui bersama hingga kami memutuskan untuk
-                                                    bertunangan pada 25 Februari 2021.</div>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex align-items-start justify-content-center flex-row-reverse">
-                                            <div
-                                                class="text-center animate__animated animate__fadeInLeft animate__slower">
-                                                <div class="editable font-weight-bold mb-2" style="font-size:12px;">
-                                                    Married (2021)</div>
-                                                <div class="editable" style="line-height:1.3;font-size:12px;">Kami
-                                                    memutuskan untuk mengikat janji suci pernikahan pada 09 Oktober
-                                                    2021.</div>
+                                            <div class="orn-couple-4">
+                                                <div class="image-wrap" data-aos="fade-up-left"
+                                                    data-aos-duration="1300" data-aos-delay="1000">
+                                                    <img src="/assets/Orn-11.png" alt>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                            <div class="couple-details-wrap">
+                                <div class="couple-details">
 
+                                    <p class="couple-parents" data-aos="fade-up" data-aos-duration="1000">Putra dari<br><b>Bp. H. Supartono, SKM</b> &amp;<br><b>Alm. Ibu Hj. Rini Indriyastuti, S.Kep</b></p>
+                                    <div class="couple-link-wrap" data-aos="fade-up" data-aos-duration="1000">
+                                        <a href="https://www.instagram.com/hiyussuf" target="_blank"
+                                            class="couple-link"><i class="fab fa-instagram"></i> @hiyussuf</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </li>
-                    <li class="container-mobile satumomen_slide"
-                        style="background-image: url(https://satumomen.com/themes/colored-beach/bg.webp); ;">
-                        <div class="workspace ">
-                            <div class="content h-100 w-100 mx-auto">
-                                <div class="d-flex justify-content-center align-items-center"
-                                    style="margin:-30px;width:calc(100% + 60px);height:calc(100% + 60px);padding:2rem;background-color:var(--inv-accent);">
-                                    <div style="width:100%;">
-                                        <div class="text-center mb-4 animate__animated animate__fadeInDown animate__slower"
-                                            style="color:var(--btn-color);">
-                                            <div class="h4 mb-2 editable font-accent" style="font-size:32px;">Our
-                                                Gallery</div>
+                        <div class="separator-wrap">
+                            <div class="separator" data-aos="zoom-in" data-aos-duration="1500">
+                                <h2 class="couple-separator">&amp;
+                                </h2>
+                            </div>
+                        </div>
+                        <div class="couple-info bride">
+                            <div class="bride-name-wrap">
+                                <h1 class="couple-name-top">Rosita
+                                </h1>
+                                <p class="couple-name-bottom">
+                                    Rosita Dewi Rahmawati, A.Md.RMIK</p>
+                            </div>
+                            <div class="couple-preview">
+                                <div class="ornaments-wrapper">
+                                    <div class="orn-couple-edge">
+                                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1300"
+                                            data-aos-delay="900">
+                                            <img src="/assets/Orn-14.png" alt>
                                         </div>
-                                        <div class="image-editable d-flex flex-wrap" style="margin:-4px;">
-                                            <div class="animate__animated animate__zoomIn animate__slower"
-                                                style="width:70%;overflow:hidden;padding:4px;">
-                                                <div class="light" style="overflow:hidden;width:100%;height:144px;">
-                                                    <img src="/images/galleries/340568-gallery-0UvGRViAky.jpg"
-                                                        alt="14989-gallery-1657822631.jpg" class="lightbox"
-                                                        style="width: 100%; height: 100%; object-fit: cover;" /></div>
+                                    </div>
+                                </div>
+                                <div class="couple-frame">
+                                    <div class="couple-picture-wrap">
+                                        <div class="ornaments-wrapper">
+                                            <div class="orn-couple-1">
+                                                <div class="image-wrap" data-aos="fade-up-left"
+                                                    data-aos-duration="1300" data-aos-delay="900">
+                                                    <img src="/assets/Orn-13.png" alt>
+                                                </div>
                                             </div>
-                                            <div class="animate__animated animate__zoomIn animate__slower"
-                                                style="width:30%;overflow:hidden;padding:4px;">
-                                                <div style="overflow:hidden;width:100%;height:144px;"><img
-                                                        src="/images/galleries/340568-gallery-xUvfU45hlb.jpg"
-                                                        alt="14989-gallery-1657822623.jpg" class="lightbox"
-                                                        style="width: 100%; height: 100%; object-fit: cover;" /></div>
+                                            <div class="orn-couple-6">
+                                                <div class="image-wrap" data-aos="fade-left" data-aos-duration="1300"
+                                                    data-aos-delay="900">
+                                                    <img src="/assets/Orn-12.png" alt>
+                                                </div>
                                             </div>
-                                            <div class="animate__animated animate__zoomIn animate__slower"
-                                                style="width:30%;overflow:hidden;padding:4px;">
-                                                <div style="overflow:hidden;width:100%;height:144px;"><img
-                                                        src="/images/galleries/340568-gallery-zX4L76dw8d.jpg"
-                                                        alt="14989-gallery-1657822614.jpg" class="lightbox"
-                                                        style="width: 100%; height: 100%; object-fit: cover;" /></div>
+                                        </div>
+                                        <div class="couple-picture lightgallery" data-aos="fade-up-right"
+                                            data-aos-duration="900" data-aos-once="false">
+                                            <a class="img-wrap"
+                                                href="/images/hdj/me2.jpg"
+                                                target="_blank">
+                                                <img class="img"
+                                                    src="/images/hdj/me2.jpg"
+                                                    alt>
+                                            </a>
+                                        </div>
+                                        <div class="ornaments-wrapper">
+                                            <div class="orn-couple-2">
+                                                <div class="image-wrap" data-aos="fade-right"
+                                                    data-aos-duration="1300" data-aos-delay="900">
+                                                    <img src="/assets/Orn-15.png" alt>
+                                                </div>
                                             </div>
-                                            <div class="animate__animated animate__zoomIn animate__slower"
-                                                style="width:70%;overflow:hidden;padding:4px;">
-                                                <div style="overflow:hidden;width:100%;height:144px;"><img
-                                                        src="/images/galleries/340568-gallery-expzYOBpKC.jpg"
-                                                        alt="14989-gallery-1657822611.jpg" class="lightbox"
-                                                        style="width: 100%; height: 100%; object-fit: cover;" /></div>
+                                            <div class="orn-couple-3">
+                                                <div class="image-wrap" data-aos="fade-right"
+                                                    data-aos-duration="1300" data-aos-delay="900">
+                                                    <img src="/assets/Orn-26.png" alt>
+                                                </div>
                                             </div>
-                                            <div class="animate__animated animate__zoomIn animate__slower"
-                                                style="width:70%;overflow:hidden;padding:4px;">
-                                                <div style="overflow:hidden;width:100%;height:144px;"><img
-                                                        src="/images/galleries/340568-gallery-lHqYeTCqaT.jpg"
-                                                        alt="14989-gallery-1657822606.jpg" class="lightbox"
-                                                        style="width: 100%; height: 100%; object-fit: cover;" /></div>
+                                            <div class="orn-couple-5">
+                                                <div class="image-wrap" data-aos="fade-left" data-aos-duration="1500"
+                                                    data-aos-delay="1000">
+                                                    <img src="/assets/Orn-29.png" alt>
+                                                </div>
                                             </div>
-                                            <div class="animate__animated animate__zoomIn animate__slower"
-                                                style="width:30%;overflow:hidden;padding:4px;">
-                                                <div style="overflow:hidden;width:100%;height:144px;"><img
-                                                        src="/images/galleries/340568-gallery-v2o6MNEX7E.jpg"
-                                                        alt="14989-gallery-1657822627.jpg" class="lightbox"
-                                                        style="width: 100%; height: 100%; object-fit: cover;" /></div>
+                                            <div class="orn-couple-4">
+                                                <div class="image-wrap" data-aos="fade-up-left"
+                                                    data-aos-duration="1300" data-aos-delay="1000">
+                                                    <img src="/assets/Orn-11.png" alt>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                            <div class="couple-details-wrap">
+                                <div class="couple-details">
 
-                        </div>
-                    </li>
-                    <li class="container-mobile satumomen_slide"
-                        style="background-image: url(https://satumomen.com/themes/colored-beach/bg.webp); ;">
-                        <div class="workspace ">
-                            <div class="content h-100 w-100 mx-auto">
-                                <iframe
-                                    src="https://lottie.host/embed/584ce588-3488-40f1-abe2-7370abda0a68/PPleN85etM.json"
-                                    style="border:0;width:100%;height:100%;position:absolute;left:0;top:0;right:0;bottom:0;"></iframe>
-
-                                <div class="position-relative h-100 d-flex justify-content-center align-items-center"
-                                    style="z-index:1;">
-                                    <div class="w-100"
-                                        style="background-color:#ffffff80;color:var(--inv-accent);padding:5rem 2rem;border-radius:20rem;max-width:340px;">
-                                        <div class="text-center">
-                                            <div class="editable color-accent h4 mb-4 animate__animated animate__fadeInDown animate__slower font-accent"
-                                                style="font-size:32px;">RSVP</div>
-                                            <div class="editable mb-2 animate__animated animate__fadeInUp animate__slower"
-                                                style="font-size:14.4px;">Di antara tanda-tanda (kebesaran)-Nya ialah
-                                                bahwa Dia menciptakan pasangan-pasangan untukmu dari (jenis) dirimu
-                                                sendiri agar kamu merasa tenteram kepadanya. Dia menjadikan di antaramu
-                                                rasa cinta dan kasih sayang. Sesungguhnya pada yang demikian itu
-                                                benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang
-                                                berpikir.</div>
-
-                                            <div class="editable mb-4 animate__animated animate__fadeInUp animate__slower"
-                                                style="font-size:14.4px;">( Q.S. Ar-Rum : 21)</div>
-                                            <div class="editable mb-4 animate__animated animate__fadeInUp animate__slower"
-                                                style="font-size:14.4px;">Tekan tombol dibawah ini<br />untuk mengirim
-                                                ucapan dan<br />konfirmasi kehadiran</div><button
-                                                class="btn-rsvp btn btn-primary rounded-pill mb-4 animate__animated animate__fadeInUp animate__slow">Konfirmasi
-                                                &amp; Kirim Ucapan</button>
-                                        </div>
+                                    <p class="couple-parents" data-aos="fade-up" data-aos-duration="1000">Putri dari<br><b>Bp. Giyanto</b> &amp;<br><b>Ibu Warsi</b></p>
+                                    <div class="couple-link-wrap" data-aos="fade-up" data-aos-duration="1000">
+                                        <a href="https://www.instagram.com/rositadewi_r" target="_blank"
+                                            class="couple-link"><i class="fab fa-instagram"></i> @rositadewi_r</a>
                                     </div>
                                 </div>
                             </div>
-
-                        </div>
-                    </li>
-                    <li class="container-mobile satumomen_slide"
-                        style="background-image: url(https://satumomen.com/themes/colored-beach/bg.webp); ;">
-                        <div class="workspace ">
-                            <div class="content h-100 w-100 mx-auto">
-                                <div class="d-flex justify-content-center align-items-center"
-                                    style="margin:-30px;width:calc(100% + 60px);height:calc(100% + 60px);padding:2rem;background-color:var(--inv-accent);color:var(--inv-bg);">
-                                    <div class="w-100">
-                                        <div
-                                            class="text-center mb-4 animate__animated animate__fadeInDown animate__slower">
-                                            <div class="editable color-accent font-weight-bold font-accent"
-                                                style="font-size:40px;color:var(--inv-bg);">TURUT</div>
-
-
-
-                                            <div class="editable font-brittany-signature"
-                                                style="font-size:30px;margin-top:-40px;">Mengundang</div>
-                                        </div>
-                                        <div
-                                            class="text-center mb-4 animate__animated animate__fadeInRight animate__slower">
-                                            <div class="editable h4 mb-2 font-accent" style="font-size:24px;">Pihak
-                                                Laki-Laki</div>
-                                            <div class="editable" style="font-size:14.4px;">Dimas Vidiawan
-                                                (Kakek)<br />Rizky Davidianto (Paman)<br />Fahri Ovidianto
-                                                (Paman)<br />Reza Vidiano (Abang)</div>
-
-
-                                        </div>
-
-
-                                        <div
-                                            class="text-center mb-4 animate__animated animate__fadeInLeft animate__slower">
-                                            <div class="editable h4 mb-2 font-accent" style="font-size:24px;">Pihak
-                                                Wanita</div>
-                                            <div class="editable" style="font-size:14.4px;">Arif Ovidianto
-                                                (Abang)<br />Inviana Adinda (Kakak)<br />Inviani Rahayu
-                                                (Kakak)<br />Ratna Invinara Desi (Tante)<br />Ani Invika Utari (Bunde)
-                                            </div>
-
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </li>
-                    <li class="container-mobile satumomen_slide"
-                        style="background-image: url(/images/invitation/bg-section-40992431724476498.jpg); background-size: cover;">
-                        <div class="workspace ">
-                            <div class="content h-100 w-100 mx-auto">
-                                <div class="watermark d-flex justify-content-center align-items-center"
-                                    style="height:calc(100% + 60px);width:calc(100% + 60px);margin:-30px;background-color:#ffffffba;padding:2rem;backdrop-filter:blur(2px);">
-                                    <div>
-                                        <div class="text-center">
-
-                                            <div class="editable quotes mb-3 animate__animated animate__fadeInDown animate__slower"
-                                                style="font-size:14.4px;">We would like to thank you for sharing in our
-                                                wedding celebration. We are grateful for your presence, warm wishes, and
-                                                your generous gift. We look forward to our future together and to making
-                                                more memories with you.</div>
-                                            <div class="editable font-italic animate__animated animate__fadeInDown animate__slow"
-                                                style="font-size:14.4px;">See You On Our Big Day</div>
-
-                                            <div class="editable h4 color-accent animate__animated animate__fadeInDown animate__slow font-latin"
-                                                style="font-size:32px;">Totok &amp; Arni</div>
-                                            <div class="watermark-placeholder mt-5"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <!-- end invitation -->
-        <div class="floating-action d-flex align-items-end flex-column">
-            <button id="btnQrModal" onclick="if (!window.__cfRLUnblockHandlers) return false; showModal(qrModal)"
-                class="btn btn-float " data-cf-modified-2babb3ce562a697bba8ca988-="">
-                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor"
-                    viewBox="0 0 256 256">
-                    <rect x="40" y="40" width="80" height="80" rx="16"></rect>
-                    <rect x="40" y="136" width="80" height="80" rx="16"></rect>
-                    <rect x="136" y="40" width="80" height="80" rx="16"></rect>
-                    <path d="M144,184a8,8,0,0,0,8-8V144a8,8,0,0,0-16,0v32A8,8,0,0,0,144,184Z"></path>
-                    <path
-                        d="M208,152H184v-8a8,8,0,0,0-16,0v56H144a8,8,0,0,0,0,16h32a8,8,0,0,0,8-8V168h24a8,8,0,0,0,0-16Z">
-                    </path>
-                    <path d="M208,184a8,8,0,0,0-8,8v16a8,8,0,0,0,16,0V192A8,8,0,0,0,208,184Z"></path>
-                </svg>
-            </button>
-            <button id="btnMusic" onclick="if (!window.__cfRLUnblockHandlers) return false; playMusic()"
-                class="btn btn-float " data-cf-modified-2babb3ce562a697bba8ca988-="">
-                <svg class="play" xmlns="http://www.w3.org/2000/svg" width="28" height="28"
-                    fill="currentColor" viewBox="0 0 256 256">
-                    <path
-                        d="M184,152V104a8,8,0,0,1,16,0v48a8,8,0,0,1-16,0Zm40-72a8,8,0,0,0-8,8v80a8,8,0,0,0,16,0V88A8,8,0,0,0,224,80ZM53.92,34.62A8,8,0,1,0,42.08,45.38L73.55,80H32A16,16,0,0,0,16,96v64a16,16,0,0,0,16,16H77.25l69.84,54.31A8,8,0,0,0,160,224V175.09l42.08,46.29a8,8,0,1,0,11.84-10.76Zm92.16,77.59A8,8,0,0,0,160,106.83V32a8,8,0,0,0-12.91-6.31l-39.85,31a8,8,0,0,0-1,11.7Z">
-                    </path>
-                </svg>
-                <svg class="pause" xmlns="http://www.w3.org/2000/svg" width="28" height="28"
-                    fill="currentColor" viewBox="0 0 256 256">
-                    <path
-                        d="M160,32V224a8,8,0,0,1-12.91,6.31L77.25,176H32a16,16,0,0,1-16-16V96A16,16,0,0,1,32,80H77.25l69.84-54.31A8,8,0,0,1,160,32Zm32,64a8,8,0,0,0-8,8v48a8,8,0,0,0,16,0V104A8,8,0,0,0,192,96Zm32-16a8,8,0,0,0-8,8v80a8,8,0,0,0,16,0V88A8,8,0,0,0,224,80Z">
-                    </path>
-                </svg>
-            </button>
-        </div>
-        <!-- lightbox -->
-        <div id="lightboxWrapper" class="lightbox-wrapper">
-            <div class="lightbox-list"></div>
-            <button id="lightboxCloseBtn" class="btn btn-lightbox">
-                <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 20 20"
-                    fill="currentColor">
-                    <path fill-rule="evenodd"
-                        d="M4.293 4.293a1 1 0 0 1 1.414 0L10 8.586l4.293-4.293a1 1 0 1 1 1.414 1.414L11.414 10l4.293 4.293a1 1 0 0 1-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 0 1-1.414-1.414L8.586 10 4.293 5.707a1 1 0 0 1 0-1.414z"
-                        clip-rule="evenodd" />
-                </svg>
-            </button>
-            <div class="lightbox-navigation">
-                <button id="lightboxPrevBtn" class="btn lightbox-arrow" data-index="0">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" fill="none"
-                        viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15 19-7-7 7-7" />
-                    </svg>
-                </button>
-                <button id="lightboxNextBtn" class="btn lightbox-arrow" data-index="0">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" fill="none"
-                        viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m9 5 7 7-7 7" />
-                    </svg>
-                </button>
-            </div>
-        </div>
-        <!-- end lightbox -->
-        <!-- startQRModal -->
-        <div class="modal fade" id="qrModal" tabindex="-1" role="dialog" aria-labelledby="qrModal"
-            aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content" style="height:100%">
-                    <div
-                        style="width: 100%;aspect-ratio: 16/9; background-size:cover; background-position: center; background-image: url(/images/invitation/cover-3587981724857164.jpg);">
-                    </div>
-                    <div class="text-center py-4 px-4">
-                        <div>
-                            <div class="mx-auto">
-                                <?xml version="1.0" encoding="UTF-8"?>
-                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="180" height="180"
-                                    viewBox="0 0 180 180">
-                                    <rect x="0" y="0" width="180" height="180" fill="#ffffff" />
-                                    <g transform="scale(7.2)">
-                                        <g transform="translate(0,0)">
-                                            <path fill-rule="evenodd"
-                                                d="M8 0L8 1L9 1L9 2L10 2L10 3L11 3L11 1L13 1L13 0L11 0L11 1L9 1L9 0ZM14 0L14 1L15 1L15 0ZM16 0L16 1L17 1L17 0ZM12 2L12 4L11 4L11 5L10 5L10 4L9 4L9 5L10 5L10 8L9 8L9 6L8 6L8 8L9 8L9 10L8 10L8 11L7 11L7 10L6 10L6 11L5 11L5 8L3 8L3 9L4 9L4 12L5 12L5 13L3 13L3 10L2 10L2 8L0 8L0 11L1 11L1 12L0 12L0 17L1 17L1 15L3 15L3 16L2 16L2 17L7 17L7 16L6 16L6 15L8 15L8 18L9 18L9 20L8 20L8 22L9 22L9 20L10 20L10 23L8 23L8 25L9 25L9 24L10 24L10 23L11 23L11 20L10 20L10 19L12 19L12 21L14 21L14 24L13 24L13 25L15 25L15 22L16 22L16 23L17 23L17 22L19 22L19 21L21 21L21 16L22 16L22 18L24 18L24 19L23 19L23 22L20 22L20 23L18 23L18 25L19 25L19 24L21 24L21 25L22 25L22 24L24 24L24 25L25 25L25 18L24 18L24 16L25 16L25 14L24 14L24 13L25 13L25 10L24 10L24 9L25 9L25 8L24 8L24 9L19 9L19 8L18 8L18 9L19 9L19 10L16 10L16 9L17 9L17 6L16 6L16 8L14 8L14 7L15 7L15 6L14 6L14 5L15 5L15 4L16 4L16 5L17 5L17 3L15 3L15 4L14 4L14 2ZM12 4L12 5L11 5L11 7L12 7L12 9L10 9L10 10L9 10L9 11L10 11L10 10L12 10L12 11L13 11L13 13L11 13L11 12L10 12L10 13L9 13L9 14L8 14L8 12L7 12L7 11L6 11L6 12L7 12L7 13L6 13L6 14L3 14L3 15L4 15L4 16L5 16L5 15L6 15L6 14L8 14L8 15L9 15L9 14L10 14L10 15L11 15L11 14L14 14L14 13L16 13L16 12L17 12L17 13L18 13L18 14L19 14L19 15L20 15L20 16L21 16L21 15L20 15L20 13L21 13L21 14L23 14L23 13L24 13L24 12L21 12L21 10L20 10L20 11L19 11L19 13L18 13L18 11L15 11L15 10L14 10L14 11L13 11L13 10L12 10L12 9L14 9L14 8L13 8L13 7L14 7L14 6L13 6L13 7L12 7L12 5L14 5L14 4ZM6 8L6 9L7 9L7 8ZM22 10L22 11L24 11L24 10ZM14 11L14 12L15 12L15 11ZM1 13L1 14L2 14L2 13ZM16 14L16 16L15 16L15 15L12 15L12 16L9 16L9 17L14 17L14 18L12 18L12 19L13 19L13 20L14 20L14 19L16 19L16 16L18 16L18 15L17 15L17 14ZM23 15L23 16L24 16L24 15ZM14 16L14 17L15 17L15 16ZM17 17L17 20L20 20L20 17ZM18 18L18 19L19 19L19 18ZM12 22L12 23L13 23L13 22ZM21 23L21 24L22 24L22 23ZM16 24L16 25L17 25L17 24ZM0 0L0 7L7 7L7 0ZM1 1L1 6L6 6L6 1ZM2 2L2 5L5 5L5 2ZM18 0L18 7L25 7L25 0ZM19 1L19 6L24 6L24 1ZM20 2L20 5L23 5L23 2ZM0 18L0 25L7 25L7 18ZM1 19L1 24L6 24L6 19ZM2 20L2 23L5 23L5 20Z"
-                                                fill="#000000" />
-                                        </g>
-                                    </g>
-                                </svg>
-
-                                <div style="margin-top: 10px; text-align: center"></div>
-                            </div>
-                        </div>
-                        <hr
-                            style="margin-top: 1rem; margin-bottom: 1rem; border: 0; border-top: 2px dashed rgba(0,0,0,.1);">
-                        <div style="margin-bottom: 10px">
-                            <div style="color: #b2b2b2;">Nama</div>
-                            <div>Nama Tamu</div>
                         </div>
                     </div>
-                    <button onclick="if (!window.__cfRLUnblockHandlers) return false; closeModal(qrModal)"
-                        type="button" class="btn btn-close" data-cf-modified-2babb3ce562a697bba8ca988-=""><svg
-                            xmlns="http://www.w3.org/2000/svg" height="42px" width="42px" fill="none"
-                            viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M6 18 18 6M6 6l12 12" />
-                        </svg></button>
                 </div>
-            </div>
-        </div>
-        <!-- endQRModal -->
-        <!-- startRSVPModal -->
-        <div class="modal fade" id="rsvpModal" tabindex="-1" role="dialog" aria-labelledby="rsvpModal"
-            aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content p-4" style="height:100%">
-                    <!-- rsvp form -->
-                    <rsvp-component
-                        :lang="{ & quot;
-                            invitation_code & quot;: & quot;
-                            Kode Undangan & quot;, & quot;
-                            validate_code & quot;: & quot;
-                            Validasi Kode Undangan & quot;, & quot;
-                            name & quot;: & quot;
-                            Nama & quot;, & quot;
-                            group_name & quot;: & quot;
-                            Nama Grup & quot;, & quot;
-                            phone & quot;: & quot;
-                            No Hp\ / WhatsApp & quot;, & quot;
-                            attendance & quot;: & quot;
-                            Kehadiran ? & quot;, & quot;
-                            yes & quot;: & quot;
-                            Hadir & quot;, & quot;
-                            no & quot;: & quot;
-                            Tidak Hadir & quot;, & quot;
-                            guest & quot;: & quot;
-                            Orang & quot;, & quot;
-                            guest_count & quot;: & quot;
-                            Jumlah Tamu & quot;, & quot;
-                            comment & quot;: & quot;
-                            Komentar atau Ucapan & quot;, & quot;
-                            send & quot;: & quot;
-                            Kirim & quot;, & quot;
-                            update & quot;: & quot;
-                            Kirim & quot;, & quot;
-                            captcha_placeholder & quot;: & quot;
-                            Ketik Text & quot; }"
-                        :invitation_id="358798" name="Nama Tamu" code="#" overlay="1"></rsvp-component>
-                    <!-- rsvp form -->
-                    <button onclick="if (!window.__cfRLUnblockHandlers) return false; closeModal(rsvpModal)"
-                        type="button" class="btn btn-close" data-cf-modified-2babb3ce562a697bba8ca988-=""><svg
-                            xmlns="http://www.w3.org/2000/svg" height="42px" width="42px" fill="none"
-                            viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M6 18 18 6M6 6l12 12" />
-                        </svg></button>
+            </section>
+
+            <section class="agenda-wrap">
+                <div class="agenda-inner">
+                    <div class="agenda-body">
+                        <div class="event-item">
+                            <div class="event-head">
+                                <div class="event-head-wrap">
+                                    <div class="item-x-event">
+                                        <div class="event-day aos-init aos-animate" data-aos="fade-up"
+                                            data-aos-duration="1000">
+                                            MINGGU
+                                        </div>
+                                    </div>
+                                    <div class="item-2-event">
+                                        <div class="event-date aos-init aos-animate" data-aos="fade-up"
+                                            data-aos-duration="1000">
+                                            01
+                                        </div>
+                                        <div class="event-year aos-init aos-animate" data-aos="fade-up"
+                                            data-aos-duration="1000">
+                                            2024
+                                        </div>
+                                    </div>
+                                    <div class="item-x-event">
+                                        <div class="event-month aos-init aos-animate" data-aos="fade-up"
+                                            data-aos-duration="1000">
+                                            DESEMBER
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="activity-wrap  same-location ">
+                                <div class="ornaments-wrapper">
+                                </div>
+                                <div class="activity-item">
+                                    <div class="activity-frame">
+
+                                        <div class="frame-wrap" data-aos="zoom-in" data-aos-duration="1000"
+                                            data-aos-delay="500">
+                                            <img src="/assets/frame.png" alt class width="100">
+                                        </div>
+                                        <div class="ornaments-wrapper">
+                                            <div class="orn-event-3 left">
+                                                <div class="image-wrap" data-aos="fade-right"
+                                                    data-aos-duration="1000" data-aos-delay="1500">
+                                                    <img src="/assets/Orn-37.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-3 right">
+                                                <div class="image-wrap" data-aos="fade-left" data-aos-duration="1000"
+                                                    data-aos-delay="1500">
+                                                    <img src="/assets/Orn-32.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-2 left">
+                                                <div class="image-wrap" data-aos="fade-right"
+                                                    data-aos-duration="1200" data-aos-delay="1400">
+                                                    <img src="/assets/Orn-07.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-2 right">
+                                                <div class="image-wrap" data-aos="fade-right"
+                                                    data-aos-duration="1200" data-aos-delay="1400">
+                                                    <img src="/assets/Orn-07.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-1 left">
+                                                <div class="image-wrap" data-aos="fade-up-right"
+                                                    data-aos-duration="1200" data-aos-delay="1300">
+                                                    <img src="/assets/Orn-31.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-1 right">
+                                                <div class="image-wrap" data-aos="fade-up-left"
+                                                    data-aos-duration="1200" data-aos-delay="1300">
+                                                    <img src="/assets/Orn-33.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-4 left">
+                                                <div class="image-wrap" data-aos="zoom-right"
+                                                    data-aos-duration="1000" data-aos-delay="1300">
+                                                    <img src="/assets/Orn-30.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-4 right">
+                                                <div class="image-wrap" data-aos="zoom-left" data-aos-duration="1000"
+                                                    data-aos-delay="1300">
+                                                    <img src="/assets/Orn-14.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event center">
+                                                <div class="image-wrap" data-aos="zoom-in" data-aos-duration="1000"
+                                                    data-aos-delay="1300">
+                                                    <img src="/assets/Orn-couple.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-content">
+                                        <div class="activity-head" data-aos="zoom-in" data-aos-duration="1000"
+                                            data-aos-delay="450">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60"
+                                                viewBox="0 0 60 60" fill="none">
+                                                <path
+                                                    d="M38.7765 19.9353C38.2519 19.9353 37.7378 19.9668 37.2342 19.9983C37.9933 20.9761 38.6706 22.0149 39.2592 23.104C43.6703 23.2247 47.8563 25.0781 50.9108 28.2628C53.9653 31.4475 55.6424 35.7072 55.5789 40.1195C55.5154 44.5318 53.7165 48.7415 50.5717 51.8371C47.4269 54.9326 43.1893 56.6649 38.7765 56.6586C34.3256 56.6539 30.0583 54.8837 26.911 51.7364C23.7637 48.5891 21.9935 44.3218 21.9887 39.8708C22.0028 36.6956 22.9108 33.5884 24.6087 30.9052C26.3066 28.222 28.7258 26.0711 31.5893 24.6988C30.9244 23.8297 30.1642 23.0378 29.3229 22.3381C24.7522 24.7969 21.3217 28.9428 19.7618 33.893C18.2019 38.8431 18.6357 44.2067 20.971 48.8418C22.6426 52.1309 25.1894 54.8949 28.331 56.8294C31.4726 58.764 35.0871 59.7941 38.7765 59.8064C44.0638 59.8064 49.1344 57.706 52.8731 53.9674C56.6117 50.2287 58.7121 45.1581 58.7121 39.8708C58.7121 34.5836 56.6117 29.5129 52.8731 25.7743C49.1344 22.0356 44.0638 19.9353 38.7765 19.9353Z"
+                                                    fill="#807788" />
+                                                <path
+                                                    d="M39.2592 23.104C38.6706 22.0149 37.9933 20.9761 37.2342 19.9983C36.0581 19.9913 32.8294 20.4494 29.3229 22.3381C30.1642 23.0378 30.9244 23.8297 31.5893 24.6988C34.7108 23.2029 35.2354 23.104 39.2592 23.104Z"
+                                                    fill="#807788" />
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M8.02599 21.7113C4.87893 24.8583 3.10835 29.125 3.10252 33.5756C3.10882 37.9412 4.81441 42.1329 7.85797 45.2626C10.9015 48.3923 15.044 50.2143 19.4077 50.3424C19.9962 51.4315 21.4327 53.4482 21.4327 53.4482C21.4327 53.4482 20.4149 53.5111 19.8903 53.5111C14.8057 53.4996 9.91764 51.5456 6.22616 48.049C2.53467 44.5524 0.318776 39.7773 0.0318015 34.7008C-0.255173 29.6243 1.40847 24.6299 4.68237 20.7396C7.95627 16.8492 12.593 14.3568 17.6439 13.7723C18.5789 13.6641 21.1364 13.6585 22.1378 13.7712C26.8273 14.299 31.1753 16.4808 34.4013 19.925C35.7234 21.3146 36.8335 22.8914 37.6959 24.6046C40.0311 29.2397 40.465 34.6033 38.9051 39.5535C37.3452 44.5037 33.9147 48.6495 29.344 51.1084C28.5026 50.4086 27.7424 49.6168 27.0776 48.7476C29.9411 47.3753 32.3603 45.2245 34.0582 42.5412C35.7561 39.858 36.664 36.7509 36.6781 33.5756C36.6734 29.1247 34.9032 24.8574 31.7559 21.7101C28.6086 18.5627 24.3413 16.7925 19.8903 16.7878C15.4397 16.7936 11.1731 18.5642 8.02599 21.7113Z"
+                                                    fill="#807788" />
+                                                <path
+                                                    d="M29.344 51.1084C28.5026 50.4086 27.7424 49.6168 27.0776 48.7476C25.9339 49.3815 22.7987 50.588 19.4077 50.3424C19.9962 51.4315 21.4327 53.4482 21.4327 53.4482C25.7924 53.0521 26.3826 52.7015 29.344 51.1084Z"
+                                                    fill="#807788" />
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M40.2173 20.2757L42.6374 20.5189L44.7258 21.1528L44.7894 15.663L48.1128 16.7067L45.0262 21.2472L47.102 21.9211L49.2266 23.1053L56.3049 18.9167C56.4747 18.8183 56.6132 18.674 56.7047 18.5005C56.7962 18.3269 56.8369 18.131 56.822 17.9353L56.3919 12.3014C56.3762 12.0919 56.298 11.8918 56.1673 11.7273C56.0367 11.5627 55.8596 11.4411 55.659 11.3784L41.6446 6.97691C41.4442 6.91375 41.2294 6.91222 41.0281 6.97254C40.8268 7.03285 40.6483 7.15221 40.5156 7.31517L36.9416 11.6915C36.8176 11.8436 36.7389 12.0275 36.7147 12.2222C36.6905 12.417 36.7218 12.6146 36.8048 12.7923L40.2173 20.2757ZM47.102 21.9211L50.1949 17.3607L53.218 18.3101L47.102 21.9211ZM42.6374 20.5189L39.6841 14.0596L42.7072 15.009L42.6374 20.5189ZM54.3495 13.1666L53.7089 12.9654L51.5645 15.5913L54.6076 16.547L54.3495 13.1666ZM49.4023 14.9122L51.5467 12.2864L44.4994 10.073L44.7575 13.4534L49.4023 14.9122ZM42.3372 9.39396L41.6965 9.19275L39.5521 11.8186L42.5953 12.7743L42.3372 9.39396Z"
+                                                    fill="#807788" />
+                                                <path
+                                                    d="M51.3819 5.74512L52.1691 2.48053C52.3388 1.77641 51.9055 1.06769 51.2017 0.89819C50.4975 0.728442 49.7891 1.16165 49.6193 1.86571L48.8321 5.1303C48.6899 5.72005 48.9706 6.31272 49.4792 6.58952C49.5778 6.64319 49.6852 6.68507 49.7995 6.71264C50.5038 6.88239 51.2122 6.44936 51.3819 5.74512Z"
+                                                    fill="#807788" />
+                                                <path
+                                                    d="M44.9083 5.15585L43.9488 1.45015C43.7675 0.749078 43.0518 0.327623 42.3506 0.509239C41.6494 0.690739 41.2282 1.40636 41.4097 2.1075L42.3691 5.8132C42.4639 6.17926 42.7042 6.46903 43.0121 6.63661C43.2939 6.78997 43.6324 6.84089 43.9675 6.75417C44.6685 6.57273 45.0897 5.85692 44.9083 5.15585Z"
+                                                    fill="#807788" />
+                                                <path
+                                                    d="M59.0803 5.10715C58.5334 4.63259 57.7049 4.69087 57.2302 5.23796L54.7793 8.06162C54.3044 8.60859 54.3631 9.43686 54.9101 9.91167C54.9836 9.97538 55.0619 10.0293 55.1439 10.074C55.673 10.3619 56.3491 10.2545 56.7602 9.78086L59.2111 6.9572C59.686 6.41024 59.6272 5.5819 59.0803 5.10715Z"
+                                                    fill="#807788" />
+                                            </svg>
+                                            <h3 class="activity-title" data-aos="zoom-in" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Akad Nikah
+                                            </h3>
+                                            <p class="activity-time" data-aos="zoom-in" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Pukul <u>10:00 WIB</u> - Selesai</p>
+                                        </div>
+                                        <div class="event-details">
+                                            <p class="event-hall" data-aos="fade-up" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Alamat Rumah :</p>
+                                            <p class="event-address" data-aos="fade-up" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Dk. Bakalan RT 02 RW 01 Ds. Bakalan, Kec. Polokarto, Kab. Sukoharjo</p>
+                                            {{-- <p class="event-city" data-aos="fade-up" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Kota Sukoharjo</p> --}}
+                                            <div class="event-link-wrap" data-aos="fade-up" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom"><a
+                                                    href="https://maps.app.goo.gl/ycJDAqnYRDQpah838"
+                                                    class="event-link" target="_blank">Petunjuk Lokasi</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ornaments-wrapper">
+                                </div>
+                                <div class="activity-item">
+                                    <div class="activity-frame">
+
+                                        <div class="frame-wrap" data-aos="zoom-in" data-aos-duration="1000"
+                                            data-aos-delay="500">
+                                            <img src="/assets/frame.png" alt class width="100">
+                                        </div>
+                                        <div class="ornaments-wrapper">
+                                            <div class="orn-event-3 left">
+                                                <div class="image-wrap" data-aos="fade-right"
+                                                    data-aos-duration="1000" data-aos-delay="1500">
+                                                    <img src="/assets/Orn-37.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-3 right">
+                                                <div class="image-wrap" data-aos="fade-left" data-aos-duration="1000"
+                                                    data-aos-delay="1500">
+                                                    <img src="/assets/Orn-32.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-2 left">
+                                                <div class="image-wrap" data-aos="fade-right"
+                                                    data-aos-duration="1200" data-aos-delay="1400">
+                                                    <img src="/assets/Orn-07.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-2 right">
+                                                <div class="image-wrap" data-aos="fade-right"
+                                                    data-aos-duration="1200" data-aos-delay="1400">
+                                                    <img src="/assets/Orn-07.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-1 left">
+                                                <div class="image-wrap" data-aos="fade-up-right"
+                                                    data-aos-duration="1200" data-aos-delay="1300">
+                                                    <img src="/assets/Orn-31.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-1 right">
+                                                <div class="image-wrap" data-aos="fade-up-left"
+                                                    data-aos-duration="1200" data-aos-delay="1300">
+                                                    <img src="/assets/Orn-33.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-4 left">
+                                                <div class="image-wrap" data-aos="zoom-right"
+                                                    data-aos-duration="1000" data-aos-delay="1300">
+                                                    <img src="/assets/Orn-30.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event-4 right">
+                                                <div class="image-wrap" data-aos="zoom-left" data-aos-duration="1000"
+                                                    data-aos-delay="1300">
+                                                    <img src="/assets/Orn-14.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                            <div class="orn-event center">
+                                                <div class="image-wrap" data-aos="zoom-in" data-aos-duration="1000"
+                                                    data-aos-delay="1300">
+                                                    <img src="/assets/Orn-couple.png" alt class width="100">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-content">
+                                        <div class="activity-head" data-aos="zoom-in" data-aos-duration="1000"
+                                            data-aos-delay="450">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="60" height="70"
+                                                viewBox="0 0 60 70" fill="none">
+                                                <path
+                                                    d="M34.8828 9.0001C34.9833 9.02283 35.0837 9.03371 35.1827 9.03371C35.8039 9.03371 36.3647 8.60432 36.5069 7.97181L37.8209 2.13128C37.9858 1.39822 37.5261 0.670054 36.7939 0.504885C36.0618 0.339307 35.3348 0.800122 35.1697 1.53318L33.8557 7.37371C33.691 8.10677 34.1508 8.83493 34.8828 9.0001Z"
+                                                    fill="#807788" />
+                                                <path
+                                                    d="M28.4791 7.14646C28.7376 7.55612 29.1785 7.78034 29.6291 7.78034C29.8772 7.78034 30.1285 7.71218 30.3537 7.56973C30.988 7.16823 31.1774 6.32783 30.7764 5.69259L27.5838 0.633825C27.183 -0.00141215 26.3436 -0.190663 25.7092 0.210424C25.0749 0.61192 24.8855 1.45233 25.2865 2.08756L28.4791 7.14646Z"
+                                                    fill="#807788" />
+                                                <path
+                                                    d="M40.7371 10.2859C40.9854 10.2859 41.2366 10.2177 41.462 10.0751L46.5179 6.87403C47.1522 6.4724 47.3413 5.63199 46.9402 4.99689C46.5393 4.36193 45.7 4.17241 45.0657 4.57404L40.0098 7.77498C39.3755 8.17661 39.1864 9.01702 39.5875 9.65212C39.846 10.0616 40.2866 10.2859 40.7371 10.2859Z"
+                                                    fill="#807788" />
+                                                <path
+                                                    d="M57.6019 59.039L48.997 55.3288L46.2383 45.0163C49.7987 43.6844 52.8224 40.9312 54.482 37.4459C56.1049 34.0377 56.214 30.3149 54.7989 26.9269C54.7887 26.9019 54.7053 26.7065 54.6729 26.6341L48.7579 13.3856C48.4854 12.7753 47.8103 12.4536 47.1658 12.6267L34.1648 16.1144L34.3642 14.1872C34.4327 13.5259 34.0137 12.9118 33.3736 12.7353L29.1178 11.5608C29.1092 11.5584 29.1006 11.5562 29.0919 11.5539C28.3766 11.3713 27.6439 11.7952 27.447 12.511C27.2476 13.2355 27.6725 13.9846 28.3959 14.1842L31.5425 15.0525L30.9616 20.6643C27.1026 18.8925 22.0362 19.0818 18.5428 21.3268C15.7124 23.1457 11.2137 23.1754 8.17203 21.5216L13.2505 10.1509L16.6813 11.0719C16.6838 11.0725 16.6863 11.0732 16.6889 11.0739C17.411 11.2635 18.1519 10.8334 18.3455 10.11C18.5398 9.3841 18.1097 8.63812 17.3849 8.44342L12.835 7.22193C12.1905 7.04873 11.5153 7.37036 11.2428 7.98057L5.3236 21.2335C3.77884 24.697 3.84714 28.5351 5.51598 32.0408C7.1757 35.5273 10.201 38.2823 13.7621 39.6151L11.0036 49.9274L2.39789 53.6343C0.865104 54.2964 -0.0955738 55.8259 0.00755521 57.4405C0.110412 59.0528 1.26021 60.3669 3.00823 60.8694C3.01612 60.8717 3.02401 60.8739 3.0319 60.876L15.0617 64.1007C15.0687 64.1026 15.076 64.1045 15.0832 64.1063C15.483 64.2066 15.8769 64.2554 16.2576 64.2554C17.5591 64.2554 18.7056 63.6845 19.398 62.6443C20.2942 61.2979 20.2262 59.4926 19.2283 58.1513L13.6288 50.6322L16.3871 40.3204C17.1836 40.4541 17.9909 40.5208 18.7994 40.5208C21.7976 40.5206 24.808 39.6133 27.3109 37.8893C27.5306 37.7381 27.744 37.581 27.952 37.4197C28.9576 39.9534 30.7785 42.1163 33.2299 43.645C35.619 45.1349 38.4416 45.9152 41.231 45.9152C42.0316 45.9152 42.8292 45.8503 43.6132 45.7201L46.3718 56.0328L40.7721 63.5524C39.7737 64.8932 39.7042 66.6987 40.5992 68.0451C41.292 69.0874 42.4396 69.6593 43.7427 69.6593C44.1217 69.6593 44.5143 69.6109 44.9122 69.5116C44.92 69.5097 44.9276 69.5076 44.9354 69.5056L56.9651 66.277C56.9727 66.275 56.9804 66.2728 56.9878 66.2708C58.7393 65.7679 59.8906 64.4527 59.9926 62.8385C60.0946 61.2245 59.1333 59.6975 57.6019 59.039ZM33.8649 19.0121L46.7499 15.5555L51.8258 26.9247C48.7854 28.5788 44.2869 28.5483 41.4544 26.728C39.2282 25.2959 36.2102 24.6653 33.2494 24.9579L33.8649 19.0121ZM17.1369 61.1353C16.8019 61.6387 16.1302 61.5622 15.7527 61.4692L3.74782 58.2512C3.37544 58.1425 2.7583 57.8716 2.71966 57.2674C2.69544 56.8888 2.92129 56.3724 3.47313 56.1339L11.6976 52.5912L17.0494 59.7779C17.4089 60.2607 17.3467 60.82 17.1369 61.1353ZM25.771 35.6473C22.9051 37.6213 19.0705 38.2942 15.7611 37.4031L15.7609 37.403C15.7609 37.403 15.7606 37.403 15.7603 37.4028L15.7599 37.4027C12.4513 36.5175 9.46604 34.0144 7.96917 30.8699C6.92509 28.6766 6.67326 26.3253 7.2123 24.0909C9.0259 25.0062 11.1386 25.4709 13.2445 25.4707C15.6671 25.4706 18.0796 24.8579 20.0106 23.617C22.9285 21.7416 27.6191 21.7667 30.6604 23.5763L30.1668 28.3456C29.8606 31.3128 28.2995 33.9058 25.771 35.6473ZM34.6667 41.3351C32.3671 39.901 30.7714 37.7781 30.1162 35.3095C31.6585 33.4106 32.612 31.1242 32.8699 28.6257L32.9622 27.7344C35.5007 27.353 38.1216 27.8182 39.9862 29.0178C41.9196 30.2602 44.3329 30.8734 46.7567 30.8734C48.8617 30.8734 50.9733 30.409 52.7857 29.4941C53.3251 31.7295 53.0736 34.0812 52.0291 36.2747C50.5325 39.4179 47.5492 41.9191 44.2401 42.8036H44.2398L44.2394 42.8038C44.239 42.8039 44.2386 42.804 44.2382 42.8042C41.0835 43.6545 37.5053 43.1054 34.6667 41.3351ZM56.2489 63.6519L44.2446 66.8736C43.8672 66.9662 43.1963 67.0414 42.8615 66.5374C42.652 66.2222 42.5906 65.6628 42.9507 65.1791L48.3027 57.9923L56.5281 61.539C57.079 61.7758 57.3042 62.2896 57.2804 62.6667C57.2424 63.2717 56.6227 63.5429 56.2489 63.6519Z"
+                                                    fill="#807788" />
+                                                <path
+                                                    d="M27.447 12.511C27.6439 11.7952 28.3766 11.3713 29.0919 11.5539L17.3849 8.44342C18.1097 8.63812 18.5398 9.3841 18.3455 10.11C18.1519 10.8334 17.411 11.2635 16.6889 11.0739L28.3959 14.1842C27.6725 13.9846 27.2476 13.2355 27.447 12.511Z"
+                                                    fill="#807788" />
+                                            </svg>
+                                            <h3 class="activity-title" data-aos="zoom-in" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Acara Resepsi</h3>
+                                            <p class="activity-time" data-aos="zoom-in" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Pukul <u>13:00 WIB</u> - Selesai</p>
+                                        </div>
+                                        <div class="event-details">
+                                            <p class="event-hall" data-aos="fade-up" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Alamat Rumah :</p>
+                                            <p class="event-address" data-aos="fade-up" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Dk. Bakalan RT 02 RW 01 Ds. Bakalan, Kec. Polokarto, Kab. Sukoharjo</p>
+                                            {{-- <p class="event-city" data-aos="fade-up" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom">Kota Sukoharjo</p> --}}
+                                            <div class="event-link-wrap" data-aos="fade-up" data-aos-duration="1000"
+                                                data-aos-delay="450" data-aos-anchor-placement="top-bottom"><a
+                                                    href="https://maps.app.goo.gl/ycJDAqnYRDQpah838"
+                                                    class="event-link" target="_blank">Petunjuk Lokasi</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
-        <!-- endRSVPModal -->
-    </main>
-    <!-- illegal -->
-    <div id="illegal" class="container-mobile"
-        style="background: #ffffff; z-index: 9999; min-height: 100vh; display: flex; justify-content: center; align-items: center; display: none">
-        <div class="modal-body modal-body d-flex flex-column align-items-center">
-            <div class="mb-4 text-center">
-                <svg width="90" height="90" fill="none">
-                    <path d="M36 28.024A18.05 18.05 0 0025.022 39M59.999 28.024A18.05 18.05 0 0170.975 39"
-                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    </path>
-                    <ellipse cx="37.5" cy="43.5" rx="4.5" ry="7.5" fill="currentColor">
-                    </ellipse>
-                    <ellipse cx="58.5" cy="43.5" rx="4.5" ry="7.5" fill="currentColor">
-                    </ellipse>
-                    <path
-                        d="M24.673 75.42a9.003 9.003 0 008.879 5.563m-8.88-5.562A8.973 8.973 0 0124 72c0-7.97 9-18 9-18s9 10.03 9 18a9 9 0 01-8.448 8.983m-8.88-5.562C16.919 68.817 12 58.983 12 48c0-19.882 16.118-36 36-36s36 16.118 36 36-16.118 36-36 36a35.877 35.877 0 01-14.448-3.017"
-                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    </path>
-                    <path
-                        d="M41.997 71.75A14.94 14.94 0 0148 70.5c2.399 0 4.658.56 6.661 1.556a3 3 0 003.999-4.066 12 12 0 00-10.662-6.49 11.955 11.955 0 00-7.974 3.032c1.11 2.37 1.917 4.876 1.972 7.217z"
-                        fill="currentColor"></path>
-                </svg>
-                <h2 class="mb-3">Jangan Bikin Aku Sedih</h2>
-                <p>Kamu didapati mencoba menghapus watermark secara ilegal.</p>
-            </div>
-        </div>
+            </section>
+
+            <section class="save-date-wrap">
+                <div class="ornaments-wrapper">
+                    <div class="orn-savedate-1">
+                        <div class="image-wrap" data-aos="fade-out" data-aos-duration="1500" data-aos-delay="1000">
+                            <img src="/assets/savedate-frame.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-savedate-top right">
+                        <div class="image-wrap" data-aos="fade-out" data-aos-duration="1500" data-aos-delay="1000">
+                            <img src="/assets/Orn-06.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-savedate-top left">
+                        <div class="image-wrap" data-aos="fade-out" data-aos-duration="1500" data-aos-delay="1000">
+                            <img src="/assets/Orn-06.png" alt>
+                        </div>
+                    </div>
+                </div>
+                <div class="save-date">
+                    <div class="save-date-head">
+                        {{-- <h1 class="save-date-title" data-aos="zoom-in" data-aos-duration="1000">Hitung Mundur </h1> --}}
+                    </div>
+                    <div class="save-date-body">
+                        <div class="countdown">
+                            <div class="count-item" data-aos="fade-down-right" data-aos-duration="1000"
+                                data-aos-delay="200">
+                                <h2 class="count-num count-day">60
+                                </h2>
+                                <small class="count-text">Hari</small>
+                            </div>
+                            <div class="count-item" data-aos="fade-down-left" data-aos-duration="1000"
+                                data-aos-delay="300">
+                                <h2 class="count-num count-hour">13
+                                </h2>
+                                <small class="count-text">Jam</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="save-date-body">
+                        <div class="countdown">
+                            <div class="count-item" data-aos="fade-up-right" data-aos-duration="1000"
+                                data-aos-delay="400">
+                                <h2 class="count-num count-minute">37
+                                </h2>
+                                <small class="count-text">Menit</small>
+                            </div>
+                            <div class="count-item" data-aos="fade-up-left" data-aos-duration="1000"
+                                data-aos-delay="500">
+                                <h2 class="count-num count-second">49
+                                </h2>
+                                <small class="count-text">Detik</small>
+                            </div>
+                        </div>
+                    </div>
+                    {{-- <div class="add-to-calendar-wrap" data-aos="fade-up" data-aos-duration="1000"
+                        data-aos-delay="500">
+                        <a class="add-to-calendar"
+                            href="https://www.google.com/calendar/render?action=TEMPLATE&amp;text=The+Wedding+of+Yussuf+%26+Rosita+&amp;dates=20240622T190000/20240622T210000&amp;location=Gedung+Sasono+Utomo+TMII+%7C+Taman+Mini+Indonesia+Indah%2C+Jl.+Malaka%2C+Ceger%2C+Cipayung%2C+Jakarta+Timur+13560+%7C+Kota+Jakarta+Timur&amp;details=Hi%2C+Mohon+Tunjukkan+Broadcast+undangan+digital+ini+untuk+memasuki+area+TMII+%28FREE%29+%7C+The+Wedding+of+Rafif+%26+Sani+Wedding+%7C+Saturday%2C+June+22nd+2024"
+                            target="_blank" rel="nofollow" id="addToCalendar">
+                            Tambahkan ke Kalender</a>
+                    </div> --}}
+                    <div class="ornaments-wrapper">
+                        <div class="orn-cover-5 right">
+                            <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                                data-aos-delay="800">
+                                <img src="/assets/Orn-22.png" alt>
+                            </div>
+                        </div>
+                        <div class=" orn-cover-5 left">
+                            <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                                data-aos-delay="800">
+                                <img src="/assets/Orn-22.png" alt>
+                            </div>
+                        </div>
+                        <div class=" orn-cover-6 right">
+                            <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                                data-aos-delay="800">
+                                <img src="/assets/Orn-21.png" alt>
+                            </div>
+                        </div>
+                        <div class=" orn-cover-6 left">
+                            <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                                data-aos-delay="800">
+                                <img src="/assets/Orn-21.png" alt>
+                            </div>
+                        </div>
+                        <div class=" orn-cover-3 center">
+                            <div class="image-wrap" data-aos="fade-up" data-aos-duration="1800"
+                                data-aos-delay="1000">
+                                <img src="/assets/Orn-19.png" alt>
+                            </div>
+                        </div>
+                        <div class=" orn-cover-2 center">
+                            <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
+                                data-aos-delay="800">
+                                <img src="/assets/Orn-20.png" alt>
+                            </div>
+                        </div>
+                        <div class=" orn-cover-4 right">
+                            <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500"
+                                data-aos-delay="800">
+                                <img src="/assets/Orn-26.png" alt>
+                            </div>
+                        </div>
+                        <div class=" orn-cover-4 left">
+                            <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500"
+                                data-aos-delay="800">
+                                <img src="/assets/Orn-26.png" alt>
+                            </div>
+                        </div>
+                        <div class=" orn-cover-1 right">
+                            <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500"
+                                data-aos-delay="800">
+                                <img src="/assets/Orn-25.png" alt>
+                            </div>
+                        </div>
+                        <div class=" orn-cover-1 left">
+                            <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500"
+                                data-aos-delay="800">
+                                <img src="/assets/Orn-25.png" alt>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class=" photo-wrap">
+                <div class="ornaments-wrapper">
+                    <div class="orn-photo-3 right">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="1200">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="photo-inner">
+                    <div class="photo-head">
+                        <h1 class="photo-title" data-aos="fade-up" data-aos-duration="1000">Galeri</h1>
+                    </div>
+                    <div class="photo-body">
+                        <div class="photo-box lightgallery">
+                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
+                                href="/images/hdj/kolase/1.jpg"
+                                target="_blank" style="height:400px">
+                                <img src="/images/hdj/kolase/1.jpg"
+                                    alt="HLG00538-resize.jpg" style="border-top-left-radius:200px;border-top-right-radius:200px">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/2.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/2.jpg"
+                                    alt="HLG00802-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
+                                href="/images/hdj/kolase/3.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/3.jpg"
+                                    alt="HLG00838-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
+                                href="/images/hdj/kolase/4.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/4.jpg"
+                                    alt="HLG01078-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/11.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/11.jpg"
+                                    alt="HLG00967-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/6.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/6.jpg"
+                                    alt="HLG00741-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/7.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/7.jpg"
+                                    alt="HLG01541-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/9.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/9.jpg"
+                                    alt="HLG01523-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
+                                href="/images/hdj/kolase/8.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/8.jpg"
+                                    alt="HLG01427-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/10.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/10.jpg"
+                                    alt="HLG01902-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/16.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/16.jpg"
+                                    alt="HLG01707-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/12.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/12.jpg"
+                                    alt="HLG01924-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/13.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/13.jpg"
+                                    alt="HLG01897-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/14.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/14.jpg"
+                                    alt="HLG01978-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/15.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/15.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/7.jpg"
+                                target="_blank">
+                                <img src="/images/np/7.jpg"
+                                    alt="HLG01427-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/5.jpg"
+                                target="_blank">
+                                <img src="/images/np/5.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/6.jpg"
+                                target="_blank">
+                                <img src="/images/np/6.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/9.jpg"
+                                target="_blank">
+                                <img src="/images/np/9.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/8.jpg"
+                                target="_blank">
+                                <img src="/images/np/8.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/10.jpg"
+                                target="_blank">
+                                <img src="/images/np/10.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/4.jpg"
+                                target="_blank">
+                                <img src="/images/np/4.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/3.jpg"
+                                target="_blank">
+                                <img src="/images/np/3.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="ornaments-wrapper">
+                    <div class="orn-photo-1 right">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1200"
+                            data-aos-delay="1200">
+                            <img src="/assets/Orn-34.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-photo-1 left">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1200"
+                            data-aos-delay="1200">
+                            <img src="/assets/Orn-34.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-photo-2 right">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1200"
+                            data-aos-delay="1200">
+                            <img src="/assets/Orn-32.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-photo-2 left">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1200"
+                            data-aos-delay="1200">
+                            <img src="/assets/Orn-32.png" alt>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class=" wedding-gift-wrap" style="margin-top:60px">
+                <div class="wedding-gift-inner">
+                    <div class="gift-frame">
+                        <div class="frame-wrap">
+                            <div class="frame-gift" id="trigger-orn">
+                                <div class="ornaments-wrapper">
+                                    <div class="orn-gift-2 right">
+                                        <div class="image-wrap" data-aos="fade-down" data-aos-duration="1200"
+                                            data-aos-delay="800">
+                                            <img src="/assets/Orn-16.png" alt>
+                                        </div>
+                                    </div>
+                                    <div class="orn-gift-2 left">
+                                        <div class="image-wrap" data-aos="fade-down" data-aos-duration="1200"
+                                            data-aos-delay="800">
+                                            <img src="/assets/Orn-16.png" alt>
+                                        </div>
+                                    </div>
+                                    <div class="orn-gift-1 right">
+                                        <div class="image-wrap" data-aos="fade-down" data-aos-duration="1200"
+                                            data-aos-delay="800">
+                                            <img src="/assets/Orn-36.png" alt>
+                                        </div>
+                                    </div>
+                                    <div class="orn-gift-1 left">
+                                        <div class="image-wrap" data-aos="fade-down" data-aos-duration="1200"
+                                            data-aos-delay="800">
+                                            <img src="/assets/Orn-36.png" alt>
+                                        </div>
+                                    </div>
+                                    <div class="orn-gift-center top">
+                                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1200"
+                                            data-aos-delay="800">
+                                            <img src="/assets/Orn-03.png" alt>
+                                        </div>
+                                    </div>
+
+                                    <div class="orn-gift-3 right">
+                                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1200"
+                                            data-aos-delay="800">
+                                            <img src="/assets/Orn-02.png" alt>
+                                        </div>
+                                    </div>
+                                    <div class="orn-gift-3 left">
+                                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1200"
+                                            data-aos-delay="800">
+                                            <img src="/assets/Orn-02.png" alt>
+                                        </div>
+                                    </div>
+                                    <div class="orn-gift-4 right">
+                                        <div class="image-wrap" data-aos="fade-down" data-aos-duration="1200"
+                                            data-aos-delay="800">
+                                            <img src="/assets/Orn-36.png" alt>
+                                        </div>
+                                    </div>
+                                    <div class="orn-gift-4 left">
+                                        <div class="image-wrap" data-aos="fade-down" data-aos-duration="1200"
+                                            data-aos-delay="800">
+                                            <img src="/assets/Orn-36.png" alt>
+                                        </div>
+                                    </div>
+                                    <div class="orn-gift-center bottom">
+                                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1200"
+                                            data-aos-delay="800" data-aos-anchor-placement="bottom bottom">
+                                            <img src="/assets/Orn-03.png" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="wedding-gift-head">
+                                <h1 class="wedding-gift-title" data-aos="fade-up" data-aos-duration="1200" style="font-size: 30px">
+                                    Amplop Digital </h1>
+                                <p class="wedding-gift-description" data-aos="fade-up" data-aos-duration="1200">
+                                    Doa restu dan kehadiran kalian di acara pernikahan kami sudah cukup bagi kami. Namun, jika kalian ingin memberikan hadiah, kami menyediakan Amplop Digital agar lebih mudah bagi kalian. Terima kasih. </p>
+                            </div>
+                            <div class="wedding-gift-body">
+
+                                <div class="wedding-gift-bank-wrap">
+                                    <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="450">
+                                        <div class="bank-item" id="savingBook10560">
+                                            <div class="bank-detail">
+                                                <div data-aos="fade-up" data-aos-duration="1200">
+                                                    <h4 class="bank-name">BANK BRI</h4>
+                                                </div>
+                                                <div data-aos="fade-up" data-aos-duration="1200">
+                                                    <h4 class="bank-account-number" data-copy="051101066766508">No.Rekening : <br><span>0511 0106 6766 508</span> <div class="copy-btn" data-copy="051101066766508">Salin</div></h4>
+                                                </div>
+                                                <div data-aos="fade-up" data-aos-duration="1200">
+                                                    <h4 class="bank-account-name">Atas Nama : <br> <span>Yussuf Faisal</span></h4>
+                                                </div>
+                                                {{-- <div class="copy-btn-wrap">
+                                                    <div class="copy-btn" data-copy="051101066766508">Salin</div>
+                                                </div> --}}
+                                                <hr data-aos="fade-up" data-aos-duration="1400">
+                                                <div data-aos="fade-up" data-aos-duration="1600">
+                                                    <h4 class="bank-name">BANK JATENG</h4>
+                                                </div>
+                                                <div data-aos="fade-up" data-aos-duration="1600">
+                                                    <h4 class="bank-account-number" data-copy="3112052100">No.Rekening : <br><span>311 205 2100</span> <div class="copy-btn" data-copy="3112052100">Salin</div></h4>
+                                                </div>
+                                                <div data-aos="fade-up" data-aos-duration="1600">
+                                                    <h4 class="bank-account-name">Atas Nama : <br> <span>Rosita Dewi Rahmawati</span></h4>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ornaments-wrapper">
+                        <div class="orn-gift-1">
+                            <div class="image-wrap" data-aos="zoom-in" data-aos-duration="1200"
+                                data-aos-delay="550" data-aos-anchor="#trigger-orn">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="wedding-wish-wrap" style="margin-top:-60px" data-template>
+                <div class="ornaments-wrapper">
+                    <div class="orn-wish-1 left">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="2000">
+                            <img src="/assets/Filter-orn-2-min.html" alt>
+                        </div>
+                    </div>
+                    <div class="orn-wish-1 right">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="2000">
+                            <img src="/assets/Filter-orn-2-min.html" alt>
+                        </div>
+                    </div>
+                    <div class="orn-wish-2">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="2000"
+                            data-aos-delay="400">
+                            <img src="/assets/Savethedate-Orn-02-min.html" alt>
+                        </div>
+                    </div>
+                    <div class="orn-wish-3 left">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="2000"
+                            data-aos-delay="450">
+                            <img src="/assets/Wish-orn-01-min.html" alt>
+                        </div>
+                    </div>
+                    <div class="orn-wish-3 right">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="2000"
+                            data-aos-delay="450">
+                            <img src="/assets/Wish-orn-02-min.html" alt>
+                        </div>
+                    </div>
+                </div>
+                <div class="wedding-wish-inner">
+                    <div class="wedding-wish-head">
+                        <div class="orn-bunga-agenda" data-aos="fade-up" data-aos-duration="2000"
+                            data-aos-delay="450">
+                            <img src="/assets/orn-10.html" alt>
+                        </div>
+                        <h1 class="wedding-wish-title" data-aos="fade-up" data-aos-duration="1200">
+                            Kartu Ucapan </h1>
+                    </div>
+                    <div class="wedding-wish-body">
+                        <div class="wedding-wish-form">
+                            <form method="POST" id="weddingWishForm">
+                                <div>
+                                    <input type="hidden" name="guestId" value>
+                                    <input type="hidden" name="code" value>
+                                    <input type="hidden" name="post" value="newComment">
+                                </div>
+                                <div class="form-group guest-name-wrap " data-aos="fade-up"
+                                    data-aos-duration="1200" data-aos-delay="200">
+                                    <input type="text" name="nama" id="nama" class="form-control guest-name"
+                                        placeholder="Nama Tamu" value="{{ $nama }}">
+                                </div>
+                                <div class="form-group guest-comment-wrap" data-aos="fade-up"
+                                    data-aos-duration="1200" data-aos-delay="300">
+                                    <textarea class="form-control guest-comment" name="ucapan" id="ucapan" rows="2" placeholder="Tuliskan Ucapan"></textarea>
+                                </div>
+                                <div class="submit-comment-wrap" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                                    <a>Total :&nbsp;<a id="totalucapan">20</a>&nbsp;&nbsp;</a>
+                                    <button type="submit" class="submit submit-comment" onclick="kirimUcapan()" data-last>Kirim Ucapan</button>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="comment-wrap show comment-max-height scrollable" id="ucapan-show"></div>
+                        {{-- <div class="more-comment-wrap show" data-aos="fade-up" data-aos-duration="1200" id="ucapan-loadmore">
+                            <button type="button" id="moreComment" data-template data-start="0"
+                                data-load-text="Loading">Show more comments</button>
+                        </div> --}}
+                    </div>
+                </div>
+            </section>
+
+            <section class="footnote-wrap">
+                <div class="ornaments-wrapper">
+                    <div class="orn-footnote-1 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1800"
+                            data-aos-delay="1500">
+                            <img src="/assets/Orn-23.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-footnote-1 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1800"
+                            data-aos-delay="1500">
+                            <img src="/assets/Orn-23.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-footnote-2 right">
+                        <div class="image-wrap" data-aos="fade-left" data-aos-duration="1800"
+                            data-aos-delay="1500">
+                            <img src="/assets/Tree.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-footnote-2 left">
+                        <div class="image-wrap" data-aos="fade-left" data-aos-duration="1800"
+                            data-aos-delay="1500">
+                            <img src="/assets/Tree.png" alt>
+                        </div>
+                    </div>
+                </div>
+                <div class="footnote">
+                    <div class="content">
+                        <div class="logo-wrapper">
+                            <div class="logo-1">
+                                <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
+                                    data-aos-delay="1600">
+                                    <img src="/assets/logo1.png" alt>
+                                </div>
+                            </div>
+                            <div class="logo-2">
+                                <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
+                                    data-aos-delay="1600">
+                                    <img src="/assets/logo2.png" alt>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-head-wrap">
+                            <div class="item-x-event">
+                                <div class="event-day aos-init aos-animate" data-aos="fade-up"
+                                    data-aos-duration="1000">
+                                    MINGGU
+                                </div>
+                            </div>
+                            <div class="item-2-event">
+                                <div class="event-date aos-init aos-animate" data-aos="fade-up"
+                                    data-aos-duration="1000">
+                                    01
+                                </div>
+                                <div class="event-year aos-init aos-animate" data-aos="fade-up"
+                                    data-aos-duration="1000">
+                                    2024
+                                </div>
+                            </div>
+                            <div class="item-x-event">
+                                <div class="event-month aos-init aos-animate" data-aos="fade-up"
+                                    data-aos-duration="1000">
+                                    DESEMBER
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ornaments-wrapper">
+                    <div class="orn-cover-5 right">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-22.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-5 left">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-22.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-6 right">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-21.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-6 left">
+                        <div class="image-wrap" data-aos="fade-up-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-21.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-3 center">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1800"
+                            data-aos-delay="1000">
+                            <img src="/assets/Orn-19.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-2 center">
+                        <div class="image-wrap" data-aos="fade-up" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-20.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-4 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-26.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-4 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-26.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-1 right">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-25.png" alt>
+                        </div>
+                    </div>
+                    <div class="orn-cover-1 left">
+                        <div class="image-wrap" data-aos="fade-right" data-aos-duration="1500"
+                            data-aos-delay="800">
+                            <img src="/assets/Orn-25.png" alt>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+    </section>
+
+    <section class="music-outer" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+        <div class="music-box auto" id="music-box"></div>
+    </section>
+    <script>
+        // Music
+        var MUSIC = {
+            // 'url': "https:\/\/katsudoto-storage.s3.ap-southeast-1.amazonaws.com\/media\/audio\/y2mate-mp3cutnet-48-45a241d61c4ec7a8.mp3",
+            'url': "\/musics\/lagu_pernikahan_kita.mp3",
+            'box': '#music-box'
+        };
+
+        // Event
+        // var EVENT = 1719057600;
+        var EVENT = 1733022000;
+
+        // Banks
+        var BANK_OPTIONS = [{
+            "id": 10560,
+            "title": "BANK BRI",
+            "credential": "051101066766508"
+        }];
+
+        // RSVP
+        var RSVP = {
+            'button_text': {
+                'attend': "Will Attend",
+                'not_attend': "Unable To Attend"
+            }
+        };
+
+        // Covers
+        var COVERS = [{
+                'position': 'MAIN',
+                'details': {
+                    'desktop': "<div class=\"picture desktop\">\n                                        <img src=\"/images/hdj/cover.jpg\" alt=\"\">\n                                    <\/div><div class=\"picture desktop\">\n                                        <img src=\"/images/hdj/cover2.jpg\" alt=\"\">\n                                    <\/div><div class=\"picture desktop\">\n                                        <img src=\"/images/hdj/cover3.jpg\" alt=\"\">\n                                    <\/div>",
+                    'mobile': "<div class=\"picture mobile\">\n                                        <img src=\"/images/hdj/cover.jpg\" alt=\"\">\n                                    <\/div><div class=\"picture mobile\">\n                                        <img src=\"/images/hdj/cover2.jpg\" alt=\"\">\n                                    <\/div><div class=\"picture mobile\">\n                                        <img src=\"/images/hdj/cover3.jpg\" alt=\"\">\n                                    <\/div>"
+                },
+                'element': '#cover-main'
+            },
+            {
+                'position': 'OPENING',
+                'details': {
+                    'desktop': "",
+                    'mobile': ""
+                },
+                'element': '#cover-opening'
+            },
+            {
+                'position': 'PANE',
+                'details': {
+                    'desktop': "",
+                    'mobile': ""
+                },
+                'element': '#cover-pane'
+            }
+        ];
+
+        // Protocol
+        var PROTOCOL = {
+            'slider': '#protocol-slider',
+            'dots': '#protocol-dots'
+        };
+
+        // RSVP Data
+        var RSVP_DATA = {
+            post: 'rsvp_request',
+            request: 'get_rsvp',
+            content: '',
+            template: 'default_v2_rsvp',
+            changeButton: '#changeRSVP',
+            amountElement: '#rsvpAmountWrap'
+        }
+    </script>
+
+    <div class="alert" id="alert">
+        <div class="alert-text"></div>
+        <div class="alert-close fas fa-times"></div>
     </div>
-    <!-- end illegal -->
 
-    <!-- not support modal -->
-    <div class="modal fade" id="notSupport" tabindex="-1" role="dialog" aria-labelledby="notSupport"
-        aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content" style="border-radius: .8rem;">
-                <div class="modal-body text-center justify-content-center align-items-center">
-                    <h2>Pemberitahuan</h2>
-                    <p>Browser yang kamu gunakan mungkin kurang kompatibel. Beberapa fungsi undangan ini mungkin tidak
-                        dapat berjalan dengan baik. Kami merekomendasikan Chrome. Klik tombol dibawah ini untuk
-                        mendownload.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="https://apps.apple.com/id/app/google-chrome/id535886823" class="btn p-1"
-                            target="_BLANK">
-                            <img src="/images/btn_app_store.png" alt="AppStore" height="40px">
-                        </a>
-                        <a href="https://play.google.com/store/apps/details?id=com.android.chrome&amp;hl=in&amp;gl=US"
-                            class="btn p-1" target="_BLANK">
-                            <img src="/images/btn_play_store.png" alt="PlayStore" height="40px">
-                        </a>
-                    </div>
-                </div>
-                <div class="modal-footer">
-                    <button class="btn btn-outline-secondary btn-block rounded-pill"
-                        onclick="if (!window.__cfRLUnblockHandlers) return false; closeModal(notSupport)"
-                        data-cf-modified-2babb3ce562a697bba8ca988-="">Tetap Akses</button>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- not support modal -->
+    <div id="modal" class="modal modal-center"></div>
 
-    <!-- start script -->
-    {{-- <script src="/js/app3cfe.js?v=080375" type="2babb3ce562a697bba8ca988-text/javascript"></script> --}}
-    <script src="/themes/themes-scroll3cfe.js?v=080375" type="2babb3ce562a697bba8ca988-text/javascript"></script>
-    <script type="2babb3ce562a697bba8ca988-text/javascript">
-        var notSupport = document.getElementById('notSupport');
-        function checkBrowser() {
-            if(navigator.userAgent.indexOf("UCBrowser") != -1 || navigator.userAgent.indexOf("MiuiBrowser") != -1 || navigator.userAgent.indexOf("OppoBrowser") != -1) {
-                showModal(notSupport);
-                if (loader) {
-                    loader.style.display = "none";
+    <script src="/plugin/aos/dist/aos.js"></script>
+    <script src="/plugin/slick/slick.min.js"></script>
+    <script src="/plugin/selectize/dist/js/standalone/selectize.min.js"></script>
+    <script src="/plugin/modal-video/js/jquery-modal-video.min.js"></script>
+    <script src="/plugin/lightgallery/dist/js/lightgallery.min.js"></script>
+    <script src="/src/universal9b4e.js?1727783442"></script>
+    <script src="/src/template/template9b4e.js?1727783442"></script>
+    <script src="/template/js/custom-rafif-sani9b4e.js?1727783442"></script>
+    <script>
+        (function() {
+            function c() {
+                var b = a.contentDocument || a.contentWindow.document;
+                if (b) {
+                    var d = b.createElement('script');
+                    // d.innerHTML = "window.__CF$cv$params={r:'8cbc3c8f0ff391cb',t:'MTcyNzc4MzQ0Mi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/h/g/scripts/jsd/ec4b873d446c/maind41d.js';document.getElementsByTagName('head')[0].appendChild(a);";
+                    // b.getElementsByTagName('head')[0].appendChild(d)
+                }
+            }
+            if (document.body) {
+                var a = document.createElement('iframe');
+                a.height = 1;
+                a.width = 1;
+                a.style.position = 'absolute';
+                a.style.top = 0;
+                a.style.left = 0;
+                a.style.border = 'none';
+                a.style.visibility = 'hidden';
+                document.body.appendChild(a);
+                if ('loading' !== document.readyState) c();
+                else if (window.addEventListener) document.addEventListener('DOMContentLoaded', c);
+                else {
+                    var e = document.onreadystatechange || function() {};
+                    document.onreadystatechange = function(b) {
+                        e(b);
+                        'loading' !== document.readyState && (document.onreadystatechange = e, c())
+                    }
+                }
+            }
+        })();
+    </script>
+    <script>
+        $(document).ready(function() {
+            refreshUcapan();
+        })
+
+        function kirimUcapan() {
+            var nama    = $("#nama").val();
+            var ucapan  = $("#ucapan").val();
+            if (nama == null || nama == '') {
+                alert('Nama tidak boleh kosong');
+            } else {
+                if (ucapan == null || ucapan == '') {
+                    alert('Ucapan tidak boleh dikosongi');
+                } else {
+                    if (ucapan.length < 5) {
+                        alert('Panjang tulisan ucapan terlalu pendek (>5)');
+                    } else {
+                        $.ajax({
+                            headers: {
+                                'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                            },
+                            url: "{{route('rsvp.ucapanStore')}}",
+                            method: 'post',
+                            data: {
+                                nama: nama,
+                                ucapan: ucapan,
+                            },
+                            // contentType: false,
+                            // processData: false,
+                            dataType: 'json',
+                            success: function(res){
+                                refreshUcapan();
+                            }
+                        })
+                    }
                 }
             }
         }
-        checkBrowser()
-    </script>
-    <!-- end script -->
-    <script type="2babb3ce562a697bba8ca988-text/javascript">
 
+        function refreshUcapan() {
+            $.ajax({
+                url: "/api/ucapan/get",
+                type: 'GET',
+                dataType: 'json', // added data type
+                success: function(res) {
+                    $("#ucapan-show").empty();
+                    $("#nama").val("{{ $nama }}");
+                    $("#ucapan").val('');
+                    if (res != null) {
+                        $("#totalucapan").text(res.count);
+                        res.show.forEach(item => {
+                            $("#ucapan-show").append(`
+                                <div class="comment-item aos-init aos-animate" id="comment0" data-aos="fade-up" data-aos-duration="1200">
+                                    <div class="comment-head">
+                                        <h3 class="comment-name"><u>${item.nama}</u></h3>
+                                        <h6 class="comment-date">${new Date(item.created_at).toLocaleString("sv-SE")}</h6>
+
+                                    </div>
+                                    <div class="comment-body">
+                                        <p class="comment-caption">${item.ucapan}</p>
+                                    </div>
+                                </div>
+                            `);
+                        })
+                    }
+                }
+            })
+        }
     </script>
-    <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-        data-cf-settings="2babb3ce562a697bba8ca988-|49" defer></script>
-    {{-- <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8cb5f9dbbd57a8cf","version":"2024.8.0","serverTiming":{"name":{"cfExtPri":true,"cfL4":true}},"token":"bb94421b81454f668eb9cf5cf8e9f0cb","b":1}' crossorigin="anonymous"></script> --}}
 </body>
-
 </html>

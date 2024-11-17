@@ -13,9 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index2');
-});
+// Route::get('/', function () {
+//     return view('index2');
+// });
 // Route::get('/rsvp', function () {
 //     return view('index');
 // });
+Route::get('/', [App\Http\Controllers\RsvpController::class, 'index'])->name('rsvp');
+Route::get('/{nama}', [App\Http\Controllers\RsvpController::class, 'index2'])->name('rsvp.tamu');
