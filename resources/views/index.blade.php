@@ -2223,9 +2223,9 @@
                                     alt="HLG00538-resize.jpg" style="border-top-left-radius:200px;border-top-right-radius:200px">
                             </a> --}}
                             <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
-                                href="/images/hdj/kolase/compress/8.jpg"
+                                href="/images/hdj/kolase/compress/17.jpg"
                                 target="_blank" style="height:400px">
-                                <img src="/images/hdj/kolase/compress/8.jpg"
+                                <img src="/images/hdj/kolase/compress/17.jpg"
                                     alt="HLG00538-resize.jpg" style="border-top-left-radius:200px;border-top-right-radius:200px">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
