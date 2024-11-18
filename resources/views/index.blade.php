@@ -2216,142 +2216,148 @@
                     </div>
                     <div class="photo-body">
                         <div class="photo-box lightgallery">
-                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
-                                href="/images/hdj/kolase/1.jpg"
+                            {{-- <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/compress/1.jpg"
                                 target="_blank" style="height:400px">
-                                <img src="/images/hdj/kolase/1.jpg"
+                                <img src="/images/hdj/kolase/compress/1.jpg"
+                                    alt="HLG00538-resize.jpg" style="border-top-left-radius:200px;border-top-right-radius:200px">
+                            </a> --}}
+                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
+                                href="/images/hdj/kolase/compress/8.jpg"
+                                target="_blank" style="height:400px">
+                                <img src="/images/hdj/kolase/compress/8.jpg"
                                     alt="HLG00538-resize.jpg" style="border-top-left-radius:200px;border-top-right-radius:200px">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/2.jpg"
+                                href="/images/hdj/kolase/compress/2.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/2.jpg"
+                                <img src="/images/hdj/kolase/compress/2.jpg"
                                     alt="HLG00802-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
-                                href="/images/hdj/kolase/3.jpg"
+                                href="/images/hdj/kolase/compress/3.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/3.jpg"
+                                <img src="/images/hdj/kolase/compress/3.jpg"
                                     alt="HLG00838-r.jpg">
                             </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
-                                href="/images/hdj/kolase/4.jpg"
+                            {{-- <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/compress/.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/4.jpg"
+                                <img src="/images/hdj/kolase/compress/.jpg"
                                     alt="HLG01078-r.jpg">
-                            </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/11.jpg"
+                            </a> --}}
+                            {{-- <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/compress/.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/11.jpg"
-                                    alt="HLG00967-r.jpg">
-                            </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/6.jpg"
-                                target="_blank">
-                                <img src="/images/hdj/kolase/6.jpg"
+                                <img src="/images/hdj/kolase/compress/.jpg"
                                     alt="HLG00741-r.jpg">
-                            </a>
+                            </a> --}}
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/7.jpg"
+                                href="/images/hdj/kolase/compress/8.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/7.jpg"
-                                    alt="HLG01541-r.jpg">
-                            </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/9.jpg"
-                                target="_blank">
-                                <img src="/images/hdj/kolase/9.jpg"
-                                    alt="HLG01523-r.jpg">
-                            </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000" {{-- WIDE --}}
-                                href="/images/hdj/kolase/8.jpg"
-                                target="_blank">
-                                <img src="/images/hdj/kolase/8.jpg"
-                                    alt="HLG01427-r.jpg">
-                            </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/10.jpg"
-                                target="_blank">
-                                <img src="/images/hdj/kolase/10.jpg"
+                                <img src="/images/hdj/kolase/compress/8.jpg"
                                     alt="HLG01902-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/16.jpg"
+                                href="/images/hdj/kolase/compress/9.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/16.jpg"
-                                    alt="HLG01707-r.jpg">
+                                <img src="/images/hdj/kolase/compress/9.jpg"
+                                    alt="HLG01523-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/12.jpg"
+                                href="/images/hdj/kolase/compress/7.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/12.jpg"
-                                    alt="HLG01924-r.jpg">
+                                <img src="/images/hdj/kolase/compress/7.jpg"
+                                    alt="HLG01541-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/13.jpg"
+                                href="/images/hdj/kolase/compress/11.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/13.jpg"
-                                    alt="HLG01897-r.jpg">
+                                <img src="/images/hdj/kolase/compress/11.jpg"
+                                    alt="HLG00967-r.jpg">
                             </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/14.jpg"
+                            {{-- <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/compress/8.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/14.jpg"
-                                    alt="HLG01978-r.jpg">
-                            </a>
+                                <img src="/images/hdj/kolase/compress/8.jpg"
+                                    alt="HLG01427-r.jpg">
+                            </a> --}}
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/hdj/kolase/15.jpg"
+                                href="/images/np/compress/3.jpg"
                                 target="_blank">
-                                <img src="/images/hdj/kolase/15.jpg"
+                                <img src="/images/np/3.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/np/7.jpg"
+                                href="/images/np/compress/7.jpg"
                                 target="_blank">
                                 <img src="/images/np/7.jpg"
                                     alt="HLG01427-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/np/5.jpg"
+                                href="/images/np/compress/5.jpg"
                                 target="_blank">
                                 <img src="/images/np/5.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/np/6.jpg"
-                                target="_blank">
-                                <img src="/images/np/6.jpg"
-                                    alt="HLG02006-r.jpg">
-                            </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/np/9.jpg"
-                                target="_blank">
-                                <img src="/images/np/9.jpg"
-                                    alt="HLG02006-r.jpg">
-                            </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/np/8.jpg"
-                                target="_blank">
-                                <img src="/images/np/8.jpg"
-                                    alt="HLG02006-r.jpg">
-                            </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/np/10.jpg"
-                                target="_blank">
-                                <img src="/images/np/10.jpg"
-                                    alt="HLG02006-r.jpg">
-                            </a>
-                            <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/np/4.jpg"
+                                href="/images/np/compress/4.jpg"
                                 target="_blank">
                                 <img src="/images/np/4.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/np/3.jpg"
+                                href="/images/np/compress/6.jpg"
                                 target="_blank">
-                                <img src="/images/np/3.jpg"
+                                <img src="/images/np/6.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/compress/9.jpg"
+                                target="_blank">
+                                <img src="/images/np/9.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/compress/8.jpg"
+                                target="_blank">
+                                <img src="/images/np/8.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/np/compress/10.jpg"
+                                target="_blank">
+                                <img src="/images/np/10.jpg"
+                                    alt="HLG02006-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/compress/13.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/compress/13.jpg"
+                                    alt="HLG01897-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/compress/12.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/compress/12.jpg"
+                                    alt="HLG01924-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/compress/16.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/compress/16.jpg"
+                                    alt="HLG01707-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/compress/14.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/compress/14.jpg"
+                                    alt="HLG01978-r.jpg">
+                            </a>
+                            <a data-aos="zoom-in" data-aos-duration="1000"
+                                href="/images/hdj/kolase/compress/15.jpg"
+                                target="_blank">
+                                <img src="/images/hdj/kolase/compress/15.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                         </div>
