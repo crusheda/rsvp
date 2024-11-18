@@ -2285,49 +2285,49 @@
                             <a data-aos="zoom-in" data-aos-duration="1000"
                                 href="/images/np/compress/3.jpg"
                                 target="_blank">
-                                <img src="/images/np/3.jpg"
+                                <img src="/images/np/compress/3.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
-                                href="/images/np/compress/7.jpg"
+                                href="/images/np/compress/11.jpg"
                                 target="_blank">
-                                <img src="/images/np/7.jpg"
+                                <img src="/images/np/compress/11.jpg"
                                     alt="HLG01427-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
                                 href="/images/np/compress/5.jpg"
                                 target="_blank">
-                                <img src="/images/np/5.jpg"
+                                <img src="/images/np/compress/5.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
                                 href="/images/np/compress/4.jpg"
                                 target="_blank">
-                                <img src="/images/np/4.jpg"
+                                <img src="/images/np/compress/4.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
                                 href="/images/np/compress/6.jpg"
                                 target="_blank">
-                                <img src="/images/np/6.jpg"
+                                <img src="/images/np/compress/6.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
                                 href="/images/np/compress/9.jpg"
                                 target="_blank">
-                                <img src="/images/np/9.jpg"
+                                <img src="/images/np/compress/9.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
                                 href="/images/np/compress/8.jpg"
                                 target="_blank">
-                                <img src="/images/np/8.jpg"
+                                <img src="/images/np/compress/8.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
                                 href="/images/np/compress/10.jpg"
                                 target="_blank">
-                                <img src="/images/np/10.jpg"
+                                <img src="/images/np/compress/10.jpg"
                                     alt="HLG02006-r.jpg">
                             </a>
                             <a data-aos="zoom-in" data-aos-duration="1000"
